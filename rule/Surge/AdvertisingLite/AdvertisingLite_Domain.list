@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-12 02:10:41
+# UPDATED: 2021-06-13 02:06:20
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12708
-# DOMAIN: 14744
+# DOMAIN: 14736
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 296
-# TOTAL: 27935
+# TOTAL: 27927
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -2404,7 +2404,6 @@ b3z29k1uxb.com
 b400393baba7cd476a3.com
 b59812ee54afcabd.com
 b5ae848728034caddca.com
-b5h7.com
 b6aa6257a22451c.com
 b88c9bd1dcedfc3.com
 b8cf0fd3179ef.com
@@ -7146,7 +7145,6 @@ jerrcotch.com
 jerredsite.pro
 jewishcontentnetwork.com
 jf71qh5v14.com
-jfduv7.com
 jfresi.com
 jgl.microad.net
 jhbsq.cn
@@ -7177,6 +7175,7 @@ jixing8.com
 jixing8.net
 jjk.sxklm.cn
 jjpnveujkk.com
+jl368.cn
 jldnserror1.wo.com.cn
 jldnserror2.wo.com.cn
 jldnserror3.wo.com.cn
@@ -7196,6 +7195,7 @@ jobthread.com
 jodellvideos.pro
 johays.co
 jolic2.com
+joophesh.com
 joorejou.net
 josip-stadler.org
 jotchept.com
@@ -8814,7 +8814,6 @@ neodatagroup.com
 neoebiz.co.kr
 neoffic.com
 ner-de-mi-nis-6.info
-nerfherdersolo.com
 nero.live
 nerohut.com
 nervoussummer.com
@@ -9576,7 +9575,6 @@ pdmp.jp
 pdmtmribgaqctz.com
 pdn-1.com
 pdn-2.com
-pdsxp.cn
 pdywlbjkeq.work
 peacepowder.com
 peakclick.com
@@ -10646,7 +10644,6 @@ remailtarget.com
 remarketstats.com
 remind.me
 remintrex.com
-remtoaku.net
 renaissanto.com
 renewads.com
 rentfromart.com
@@ -12284,7 +12281,6 @@ sysomos.com
 systeme.io
 systerwithing.info
 syxcwxur.com
-syy.dxwpedu.me
 syyycc.com
 syzjxz2018.cn
 szhomes.net
@@ -12455,7 +12451,6 @@ teracent.net
 teracreative.com
 tercabilis.info
 tercept.com
-terethat.ru
 terorie.com
 terraclicks.com
 terrapsps.com
@@ -14226,7 +14221,6 @@ www.super8service.de
 www.t-gas.co.uk
 www.tdms.saglik.gov.tr
 www.technix.it
-www.terethat.ru
 www.thesparkmachine.com
 www.tiergestuetzt.de
 www.toochattoo.com
@@ -14401,7 +14395,6 @@ xunyibaike.com
 xvika.com
 xvwebllndr.com
 xxccdshj.com
-xxdlg.cn
 xxlink.net
 xxltr.com
 xxtu.be
@@ -14662,7 +14655,6 @@ zhggw.dre8.com
 zhizi.qq.com
 zhongkaowu.com
 zhuanshenghuo1.kuaizhan.com
-zhululm.com
 zhuren.site
 zibup.csheaven.com
 ziccardia.com

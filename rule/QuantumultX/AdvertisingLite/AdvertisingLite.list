@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-12 02:10:41
+# UPDATED: 2021-06-13 02:06:20
 # HOST-KEYWORD: 28
 # HOST-SUFFIX: 12708
-# HOST: 14744
+# HOST: 14736
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27639
+# TOTAL: 27631
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -2402,7 +2402,6 @@ HOST,b3z29k1uxb.com,AdvertisingLite
 HOST,b400393baba7cd476a3.com,AdvertisingLite
 HOST,b59812ee54afcabd.com,AdvertisingLite
 HOST,b5ae848728034caddca.com,AdvertisingLite
-HOST,b5h7.com,AdvertisingLite
 HOST,b6aa6257a22451c.com,AdvertisingLite
 HOST,b88c9bd1dcedfc3.com,AdvertisingLite
 HOST,b8cf0fd3179ef.com,AdvertisingLite
@@ -7144,7 +7143,6 @@ HOST,jerrcotch.com,AdvertisingLite
 HOST,jerredsite.pro,AdvertisingLite
 HOST,jewishcontentnetwork.com,AdvertisingLite
 HOST,jf71qh5v14.com,AdvertisingLite
-HOST,jfduv7.com,AdvertisingLite
 HOST,jfresi.com,AdvertisingLite
 HOST,jgl.microad.net,AdvertisingLite
 HOST,jhbsq.cn,AdvertisingLite
@@ -7175,6 +7173,7 @@ HOST,jixing8.com,AdvertisingLite
 HOST,jixing8.net,AdvertisingLite
 HOST,jjk.sxklm.cn,AdvertisingLite
 HOST,jjpnveujkk.com,AdvertisingLite
+HOST,jl368.cn,AdvertisingLite
 HOST,jldnserror1.wo.com.cn,AdvertisingLite
 HOST,jldnserror2.wo.com.cn,AdvertisingLite
 HOST,jldnserror3.wo.com.cn,AdvertisingLite
@@ -7194,6 +7193,7 @@ HOST,jobthread.com,AdvertisingLite
 HOST,jodellvideos.pro,AdvertisingLite
 HOST,johays.co,AdvertisingLite
 HOST,jolic2.com,AdvertisingLite
+HOST,joophesh.com,AdvertisingLite
 HOST,joorejou.net,AdvertisingLite
 HOST,josip-stadler.org,AdvertisingLite
 HOST,jotchept.com,AdvertisingLite
@@ -8812,7 +8812,6 @@ HOST,neodatagroup.com,AdvertisingLite
 HOST,neoebiz.co.kr,AdvertisingLite
 HOST,neoffic.com,AdvertisingLite
 HOST,ner-de-mi-nis-6.info,AdvertisingLite
-HOST,nerfherdersolo.com,AdvertisingLite
 HOST,nero.live,AdvertisingLite
 HOST,nerohut.com,AdvertisingLite
 HOST,nervoussummer.com,AdvertisingLite
@@ -9574,7 +9573,6 @@ HOST,pdmp.jp,AdvertisingLite
 HOST,pdmtmribgaqctz.com,AdvertisingLite
 HOST,pdn-1.com,AdvertisingLite
 HOST,pdn-2.com,AdvertisingLite
-HOST,pdsxp.cn,AdvertisingLite
 HOST,pdywlbjkeq.work,AdvertisingLite
 HOST,peacepowder.com,AdvertisingLite
 HOST,peakclick.com,AdvertisingLite
@@ -10644,7 +10642,6 @@ HOST,remailtarget.com,AdvertisingLite
 HOST,remarketstats.com,AdvertisingLite
 HOST,remind.me,AdvertisingLite
 HOST,remintrex.com,AdvertisingLite
-HOST,remtoaku.net,AdvertisingLite
 HOST,renaissanto.com,AdvertisingLite
 HOST,renewads.com,AdvertisingLite
 HOST,rentfromart.com,AdvertisingLite
@@ -12282,7 +12279,6 @@ HOST,sysomos.com,AdvertisingLite
 HOST,systeme.io,AdvertisingLite
 HOST,systerwithing.info,AdvertisingLite
 HOST,syxcwxur.com,AdvertisingLite
-HOST,syy.dxwpedu.me,AdvertisingLite
 HOST,syyycc.com,AdvertisingLite
 HOST,syzjxz2018.cn,AdvertisingLite
 HOST,szhomes.net,AdvertisingLite
@@ -12453,7 +12449,6 @@ HOST,teracent.net,AdvertisingLite
 HOST,teracreative.com,AdvertisingLite
 HOST,tercabilis.info,AdvertisingLite
 HOST,tercept.com,AdvertisingLite
-HOST,terethat.ru,AdvertisingLite
 HOST,terorie.com,AdvertisingLite
 HOST,terraclicks.com,AdvertisingLite
 HOST,terrapsps.com,AdvertisingLite
@@ -14224,7 +14219,6 @@ HOST,www.super8service.de,AdvertisingLite
 HOST,www.t-gas.co.uk,AdvertisingLite
 HOST,www.tdms.saglik.gov.tr,AdvertisingLite
 HOST,www.technix.it,AdvertisingLite
-HOST,www.terethat.ru,AdvertisingLite
 HOST,www.thesparkmachine.com,AdvertisingLite
 HOST,www.tiergestuetzt.de,AdvertisingLite
 HOST,www.toochattoo.com,AdvertisingLite
@@ -14399,7 +14393,6 @@ HOST,xunyibaike.com,AdvertisingLite
 HOST,xvika.com,AdvertisingLite
 HOST,xvwebllndr.com,AdvertisingLite
 HOST,xxccdshj.com,AdvertisingLite
-HOST,xxdlg.cn,AdvertisingLite
 HOST,xxlink.net,AdvertisingLite
 HOST,xxltr.com,AdvertisingLite
 HOST,xxtu.be,AdvertisingLite
@@ -14660,7 +14653,6 @@ HOST,zhggw.dre8.com,AdvertisingLite
 HOST,zhizi.qq.com,AdvertisingLite
 HOST,zhongkaowu.com,AdvertisingLite
 HOST,zhuanshenghuo1.kuaizhan.com,AdvertisingLite
-HOST,zhululm.com,AdvertisingLite
 HOST,zhuren.site,AdvertisingLite
 HOST,zibup.csheaven.com,AdvertisingLite
 HOST,ziccardia.com,AdvertisingLite

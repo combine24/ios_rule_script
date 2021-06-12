@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-12 02:10:43
+# UPDATED: 2021-06-13 02:06:22
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 47756
-# DOMAIN: 20745
+# DOMAIN-SUFFIX: 47758
+# DOMAIN: 20742
 # IP-CIDR: 253
 # IP-CIDR6: 1
-# TOTAL: 68841
+# TOTAL: 68840
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -2044,6 +2044,7 @@ payload:
   - DOMAIN,adsaturn.com
   - DOMAIN,adsb4trk.com
   - DOMAIN,adsbingo.com
+  - DOMAIN,adsbox.detik.com
   - DOMAIN,adsbtrack.com
   - DOMAIN,adsby.klikki.com
   - DOMAIN,adscan.yelabapp.com
@@ -3198,7 +3199,6 @@ payload:
   - DOMAIN,appleverif.com
   - DOMAIN,applicationgrabb.net
   - DOMAIN,applog.camera360.com
-  - DOMAIN,applog.ucdns.uc.cn
   - DOMAIN,applythegraft.com
   - DOMAIN,appmetrica.yandex.net
   - DOMAIN,appnexus.com
@@ -4398,6 +4398,7 @@ payload:
   - DOMAIN,businesscoffeemedia.com
   - DOMAIN,businessdocs.org
   - DOMAIN,businessinsight-az.com
+  - DOMAIN,businesspluspk.com
   - DOMAIN,bustcream-pro.com
   - DOMAIN,bustlinganimal.com
   - DOMAIN,buttcandy.com
@@ -6902,7 +6903,6 @@ payload:
   - DOMAIN,down.3lsoft.com
   - DOMAIN,down.downholic.com
   - DOMAIN,down.feiyang163.com
-  - DOMAIN,down.kuaixia.com
   - DOMAIN,down.mykings.pw
   - DOMAIN,down.qq38.org
   - DOMAIN,down.rising.net.cn
@@ -8641,7 +8641,6 @@ payload:
   - DOMAIN,gamepsvita.com
   - DOMAIN,gameraidz.com
   - DOMAIN,gamercheatblog.com
-  - DOMAIN,gamercheatscode.com
   - DOMAIN,gamerscheatbook.com
   - DOMAIN,gamersdon.com
   - DOMAIN,gamersgiveaways.com
@@ -8947,7 +8946,6 @@ payload:
   - DOMAIN,giveitalltheresqq.com
   - DOMAIN,gj.applog.uc.cn
   - DOMAIN,gj.track.uc.cn
-  - DOMAIN,gjapplog.uc.cn
   - DOMAIN,gjtrack.uc.cn
   - DOMAIN,gk4aiims.000webhostapp.com
   - DOMAIN,gklmedia.com
@@ -9549,6 +9547,7 @@ payload:
   - DOMAIN,hardyskills.com
   - DOMAIN,hariharaestates.com
   - DOMAIN,harmonyhollow.net
+  - DOMAIN,harmonyorgsolutions.com
   - DOMAIN,harrenmedia.com
   - DOMAIN,harrow.aa978.com
   - DOMAIN,harshita-india.com
@@ -9740,7 +9739,6 @@ payload:
   - DOMAIN,hkdecoman.com
   - DOMAIN,hkitforce.com
   - DOMAIN,hkng001.batmobi.net
-  - DOMAIN,hljweida.com
   - DOMAIN,hlpnowp-c.com
   - DOMAIN,hmbgumjgey.com
   - DOMAIN,hmonghotties.com
@@ -12791,7 +12789,6 @@ payload:
   - DOMAIN,musikzoo.com
   - DOMAIN,mustang-browser.com
   - DOMAIN,mustardtech.com
-  - DOMAIN,mutlubak.com
   - DOMAIN,muuojcu.xyz
   - DOMAIN,muvflix.com
   - DOMAIN,muwmedia.com
@@ -16472,7 +16469,6 @@ payload:
   - DOMAIN,skinsrate.com
   - DOMAIN,skinsregal.com
   - DOMAIN,skinsrise.com
-  - DOMAIN,skinstrue.com
   - DOMAIN,skinswhite.com
   - DOMAIN,skintrade24.com
   - DOMAIN,skipp-hacks.net
@@ -16682,6 +16678,7 @@ payload:
   - DOMAIN,software-hacks.com
   - DOMAIN,software-lite.com
   - DOMAIN,software-phile.com
+  - DOMAIN,softwarecracks.org
   - DOMAIN,softwarecrackworks.com
   - DOMAIN,softwarestab.com
   - DOMAIN,softwaresultan.com
@@ -19547,6 +19544,7 @@ payload:
   - DOMAIN,web.vortex.data.msn.com
   - DOMAIN,web.w300.vhostgo.com
   - DOMAIN,web.yuppipuppy.com
+  - DOMAIN,web100kz.com
   - DOMAIN,web1b.netreflector.com
   - DOMAIN,web2.deja.com
   - DOMAIN,web20links.com
@@ -20515,7 +20513,6 @@ payload:
   - DOMAIN,yourperlebleue.com
   - DOMAIN,yourps34free.com
   - DOMAIN,yourrewardzone.com
-  - DOMAIN,yoursmartrewards.com
   - DOMAIN,yourstats.net
   - DOMAIN,yourtrustedhacks.com
   - DOMAIN,yousendit.inq.com
@@ -27054,6 +27051,7 @@ payload:
   - DOMAIN-SUFFIX,applog.musical.ly
   - DOMAIN-SUFFIX,applog.reader.qq.com
   - DOMAIN-SUFFIX,applog.uc.cn
+  - DOMAIN-SUFFIX,applog.ucdns.uc.cn
   - DOMAIN-SUFFIX,applogapi.autohome.com.cn
   - DOMAIN-SUFFIX,applogios.uc.cn
   - DOMAIN-SUFFIX,applovin.com
@@ -38933,6 +38931,7 @@ payload:
   - DOMAIN-SUFFIX,gixmo.dk
   - DOMAIN-SUFFIX,gj500.com
   - DOMAIN-SUFFIX,gj632.cn
+  - DOMAIN-SUFFIX,gjapplog.uc.cn
   - DOMAIN-SUFFIX,gjghy.com
   - DOMAIN-SUFFIX,gjh111.cn
   - DOMAIN-SUFFIX,gjhkyh.4fresh.ru

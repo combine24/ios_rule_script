@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-12 02:10:43
+# UPDATED: 2021-06-13 02:06:21
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12708
-# DOMAIN: 14744
+# DOMAIN: 14736
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27639
+# TOTAL: 27631
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -2403,7 +2403,6 @@ payload:
   - DOMAIN,b400393baba7cd476a3.com
   - DOMAIN,b59812ee54afcabd.com
   - DOMAIN,b5ae848728034caddca.com
-  - DOMAIN,b5h7.com
   - DOMAIN,b6aa6257a22451c.com
   - DOMAIN,b88c9bd1dcedfc3.com
   - DOMAIN,b8cf0fd3179ef.com
@@ -7145,7 +7144,6 @@ payload:
   - DOMAIN,jerredsite.pro
   - DOMAIN,jewishcontentnetwork.com
   - DOMAIN,jf71qh5v14.com
-  - DOMAIN,jfduv7.com
   - DOMAIN,jfresi.com
   - DOMAIN,jgl.microad.net
   - DOMAIN,jhbsq.cn
@@ -7176,6 +7174,7 @@ payload:
   - DOMAIN,jixing8.net
   - DOMAIN,jjk.sxklm.cn
   - DOMAIN,jjpnveujkk.com
+  - DOMAIN,jl368.cn
   - DOMAIN,jldnserror1.wo.com.cn
   - DOMAIN,jldnserror2.wo.com.cn
   - DOMAIN,jldnserror3.wo.com.cn
@@ -7195,6 +7194,7 @@ payload:
   - DOMAIN,jodellvideos.pro
   - DOMAIN,johays.co
   - DOMAIN,jolic2.com
+  - DOMAIN,joophesh.com
   - DOMAIN,joorejou.net
   - DOMAIN,josip-stadler.org
   - DOMAIN,jotchept.com
@@ -8813,7 +8813,6 @@ payload:
   - DOMAIN,neoebiz.co.kr
   - DOMAIN,neoffic.com
   - DOMAIN,ner-de-mi-nis-6.info
-  - DOMAIN,nerfherdersolo.com
   - DOMAIN,nero.live
   - DOMAIN,nerohut.com
   - DOMAIN,nervoussummer.com
@@ -9575,7 +9574,6 @@ payload:
   - DOMAIN,pdmtmribgaqctz.com
   - DOMAIN,pdn-1.com
   - DOMAIN,pdn-2.com
-  - DOMAIN,pdsxp.cn
   - DOMAIN,pdywlbjkeq.work
   - DOMAIN,peacepowder.com
   - DOMAIN,peakclick.com
@@ -10645,7 +10643,6 @@ payload:
   - DOMAIN,remarketstats.com
   - DOMAIN,remind.me
   - DOMAIN,remintrex.com
-  - DOMAIN,remtoaku.net
   - DOMAIN,renaissanto.com
   - DOMAIN,renewads.com
   - DOMAIN,rentfromart.com
@@ -12283,7 +12280,6 @@ payload:
   - DOMAIN,systeme.io
   - DOMAIN,systerwithing.info
   - DOMAIN,syxcwxur.com
-  - DOMAIN,syy.dxwpedu.me
   - DOMAIN,syyycc.com
   - DOMAIN,syzjxz2018.cn
   - DOMAIN,szhomes.net
@@ -12454,7 +12450,6 @@ payload:
   - DOMAIN,teracreative.com
   - DOMAIN,tercabilis.info
   - DOMAIN,tercept.com
-  - DOMAIN,terethat.ru
   - DOMAIN,terorie.com
   - DOMAIN,terraclicks.com
   - DOMAIN,terrapsps.com
@@ -14225,7 +14220,6 @@ payload:
   - DOMAIN,www.t-gas.co.uk
   - DOMAIN,www.tdms.saglik.gov.tr
   - DOMAIN,www.technix.it
-  - DOMAIN,www.terethat.ru
   - DOMAIN,www.thesparkmachine.com
   - DOMAIN,www.tiergestuetzt.de
   - DOMAIN,www.toochattoo.com
@@ -14400,7 +14394,6 @@ payload:
   - DOMAIN,xvika.com
   - DOMAIN,xvwebllndr.com
   - DOMAIN,xxccdshj.com
-  - DOMAIN,xxdlg.cn
   - DOMAIN,xxlink.net
   - DOMAIN,xxltr.com
   - DOMAIN,xxtu.be
@@ -14661,7 +14654,6 @@ payload:
   - DOMAIN,zhizi.qq.com
   - DOMAIN,zhongkaowu.com
   - DOMAIN,zhuanshenghuo1.kuaizhan.com
-  - DOMAIN,zhululm.com
   - DOMAIN,zhuren.site
   - DOMAIN,zibup.csheaven.com
   - DOMAIN,ziccardia.com

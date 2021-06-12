@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-12 02:10:42
+# UPDATED: 2021-06-13 02:06:21
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 77237
+# DOMAIN-SUFFIX: 77249
 # DOMAIN: 14339
 # IP-CIDR: 253
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 92218
+# TOTAL: 92230
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -924,6 +924,7 @@ ads5.truecaller.com
 ads6.speedbit.com
 ads8.speedbit.com
 ads9.speedbit.com
+adsbox.detik.com
 adsbtrack.com
 adsby.klikki.com
 adscan.yelabapp.com
@@ -2482,6 +2483,7 @@ business.opera.com
 businesscoffeemedia.com
 businessdocs.org
 businessinsight-az.com
+businesspluspk.com
 bustcream-pro.com
 buttons-for-website.com
 buxomcosmetics.com
@@ -4120,7 +4122,6 @@ down.0551fs.com
 down.3lsoft.com
 down.downholic.com
 down.feiyang163.com
-down.kuaixia.com
 down.mykings.pw
 down.qq38.org
 down.rising.net.cn
@@ -5552,7 +5553,6 @@ gameplaylabs.com
 gamepsvita.com
 gameraidz.com
 gamercheatblog.com
-gamercheatscode.com
 gamerscheatbook.com
 gamersdon.com
 gamersgiveaways.com
@@ -6265,6 +6265,7 @@ hardcorehacks.com
 hardyskills.com
 hariharaestates.com
 harmonyhollow.net
+harmonyorgsolutions.com
 harrow.aa978.com
 harshita-india.com
 harshwhispers.com
@@ -6409,7 +6410,6 @@ hkdecoman.com
 hkitforce.com
 hkng001.batmobi.net
 hl.cn
-hljweida.com
 hmbgumjgey.com
 hmonghotties.com
 hmrc-form.com
@@ -6605,6 +6605,7 @@ icloud21.com
 icloudverified.com
 iclwy.xyz
 ico-telegram.org
+iconadserver.com
 iconnect007mail.com
 iconnigeria.com
 icoocash.com
@@ -8706,7 +8707,6 @@ museafrica.com
 museoguttuso.com
 musicleaked.com
 mustardtech.com
-mutlubak.com
 muuojcu.xyz
 muziczion.com
 mvconf.cloud.360safe.com
@@ -11326,7 +11326,6 @@ skinshub.net
 skinsrate.com
 skinsregal.com
 skinsrise.com
-skinstrue.com
 skinswhite.com
 skintrade24.com
 skipp-hacks.net
@@ -11481,6 +11480,7 @@ software-freee.com
 software-hacks.com
 software-lite.com
 software-phile.com
+softwarecracks.org
 softwarecrackworks.com
 softwarestab.com
 softwaresultan.com
@@ -14483,6 +14483,7 @@ zzz.clickbank.net
 .07aa0353cc.com
 .07fe665dd33f.com
 .07kfh.cn
+.080120.com
 .080644.com
 .0816bvh.ru
 .0817tt.com
@@ -14710,6 +14711,7 @@ zzz.clickbank.net
 .11.96131.com.cn
 .11.golang8.com
 .11.hydcd.com
+.11.yiqig.cn
 .11.yiqig.com
 .1100ad.com
 .1100i.com
@@ -18558,6 +18560,7 @@ zzz.clickbank.net
 .ad.ibookstar.com
 .ad.icasthq.com
 .ad.icheck.com.vn
+.ad.iconadserver.com
 .ad.idgtn.net
 .ad.iinfo.cz
 .ad.ikonke.com
@@ -18843,7 +18846,6 @@ zzz.clickbank.net
 .ad1.greedland.net
 .ad1.hotel.com
 .ad1.kde.cz
-.ad1.lbn.ru
 .ad1.nownews.com
 .ad1.p5w.net
 .ad1.pamedia.com.au
@@ -18883,7 +18885,6 @@ zzz.clickbank.net
 .ad2.gammae.com
 .ad2.hotel.com
 .ad2.iinfo.cz
-.ad2.lbn.ru
 .ad2.lupa.cz
 .ad2.nationalreview.com
 .ad2.netriota.hu
@@ -18917,7 +18918,6 @@ zzz.clickbank.net
 .ad3.eu
 .ad3.iinfo.cz
 .ad3.l3go.com
-.ad3.lbn.ru
 .ad3.nationalreview.com
 .ad3.pamedia.com.au
 .ad3.rambler.ru
@@ -18927,7 +18927,6 @@ zzz.clickbank.net
 .ad360.vn
 .ad373.com
 .ad4.com.cn
-.ad4.lbn.ru
 .ad4.sina.com
 .ad4.sina.com.cn
 .ad4.speedbit.com
@@ -18946,7 +18945,6 @@ zzz.clickbank.net
 .ad4push.com
 .ad4sell.com
 .ad4xh85llhcbfis8.com
-.ad5.lbn.ru
 .ad5.sina.com.cn
 .ad5.udn.com
 .ad5lm.net
@@ -23321,6 +23319,7 @@ zzz.clickbank.net
 .ahjzys.com
 .ahksqc.com.cn
 .ahlxxx.com
+.ahmibai.cn
 .ahnioppshfwq.com
 .ahoff.ru
 .ahoigzbodtcd.com
@@ -27233,6 +27232,7 @@ zzz.clickbank.net
 .barilliance.net
 .barium.cheezdev.com
 .barjfzpdeqmwi.com
+.barlo.xyz
 .barnacle.viewsource.io
 .barnfps.com
 .barometriserons.website
@@ -31276,6 +31276,7 @@ zzz.clickbank.net
 .cheerysequelhoax.com
 .cheetah.songrender.com
 .cheewait.net
+.cheezwhiz.z9.web.core.windows.net
 .chefti.info
 .chehuanjie.com
 .chekaksam.com
@@ -34161,6 +34162,7 @@ zzz.clickbank.net
 .croea.com
 .croissed.info
 .crokacpwjtf.com
+.cromo.name
 .croomskosmos.site
 .cross-system.com
 .crossboardmobile.com
@@ -40873,6 +40875,7 @@ zzz.clickbank.net
 .favor1.fractal.jp
 .favourmiles.com
 .fawenys.xyz
+.fawhositho.com
 .fawhuksy.com
 .faxityofficu.fun
 .faxqaaawyb.com
@@ -41726,6 +41729,7 @@ zzz.clickbank.net
 .fmecsdelxmeks.com
 .fmgdzqpcaliqs.com
 .fmgoal.com
+.fmketang.cn
 .fmkfzc.com
 .fmnetwork.nl
 .fmnfopknmuusgw.com
@@ -43718,6 +43722,7 @@ zzz.clickbank.net
 .girl-ceases.info
 .girlcc.cc
 .girlend.com
+.girli.top
 .girlownedbypolicelike.blogspot.com
 .girlsoncam.info
 .girlstalks.ru
@@ -46865,6 +46870,7 @@ zzz.clickbank.net
 .huodong.vip.youku.com
 .huodonghezi.cn
 .huodonghezi.com
+.huojutt.com
 .huomob.com
 .huonvd.cn
 .huosuniao.com
@@ -47329,7 +47335,6 @@ zzz.clickbank.net
 .icolor8.com
 .icon.cnmo.com
 .icon2count.com
-.iconadserver.com
 .iconcnd.net
 .iconpeak2trk.com
 .icons.mydrivers.com
@@ -52246,6 +52251,7 @@ zzz.clickbank.net
 .lbbanners.com
 .lbgchljyhjmev.com
 .lbhpbgfl.com
+.lbn.ru
 .lbnwrunyfupe.com
 .lbs.map.qq.com
 .lbstatic-a.akamaihd.net
@@ -64574,6 +64580,7 @@ zzz.clickbank.net
 .pingtas.qq.com
 .pingtcss.qq.com
 .pingyuanshenghuo.cn
+.pinifafi.com
 .pink.habralab.ru
 .pinkberrytube.com
 .pinkintim.com
@@ -68354,6 +68361,7 @@ zzz.clickbank.net
 .redvxjlmaehy.com
 .redwingforbusiness.redwingsafety.com
 .redzxxxtube.com
+.reechokelvin.casa
 .reedbusiness.net
 .reedge.com
 .reelcentric.com
@@ -78248,6 +78256,7 @@ zzz.clickbank.net
 .t.signaletre.com
 .t.signauxdeux.com
 .t.silvinst.com
+.t.simply-hentai.com
 .t.sj.qq.com
 .t.smile.eu
 .t.spot.im
@@ -81043,6 +81052,7 @@ zzz.clickbank.net
 .track.notsy.io
 .track.noz.de
 .track.nuxues.com
+.track.nzz.ch
 .track.oasis.magictavern.com
 .track.offermarket.net
 .track.omgpl.com
@@ -81727,6 +81737,7 @@ zzz.clickbank.net
 .trackmail3345.com
 .trackmethod.com
 .trackmstr.com
+.trackmundo.com
 .trackmysales.com
 .trackmytarget.com
 .trackmyusers.com
@@ -85537,6 +85548,7 @@ zzz.clickbank.net
 .waatch.standaard.be
 .waati.quechoisir.org
 .waavnpkn.com
+.wabekice.com
 .wabizc.cn
 .wabsgz.studocu.com
 .waby66.cn

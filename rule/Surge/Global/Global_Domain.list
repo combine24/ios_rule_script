@@ -1,17 +1,17 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-12 02:10:41
+# UPDATED: 2021-06-13 02:06:20
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 51
-# DOMAIN-SUFFIX: 31601
+# DOMAIN-SUFFIX: 31629
 # USER-AGENT: 48
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 128
 # IP-CIDR6: 3
 # PROCESS-NAME: 1
 # URL-REGEX: 1
-# TOTAL: 31874
+# TOTAL: 31902
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -135,6 +135,7 @@ www.icloud.com
 .0235r.com
 .0235s.com
 .0235ss.com
+.0235tt.com
 .0235uu.com
 .0235xx.com
 .0235yy.com
@@ -151,7 +152,6 @@ www.icloud.com
 .0328z.com
 .033001.com
 .033008.com
-.033505.com
 .033765.com
 .035007.com
 .035009.com
@@ -187,6 +187,7 @@ www.icloud.com
 .082338.com
 .0885299.com
 .089ld.com
+.08ia.com
 .08xam.com
 .09200111.com
 .09200222.com
@@ -283,6 +284,7 @@ www.icloud.com
 .114zhaofang.com
 .1155ww.com
 .1165g.com
+.1165p.com
 .1165u.com
 .1165vip.com
 .1166buyu.com
@@ -326,6 +328,7 @@ www.icloud.com
 .12vpx.com
 .1300kai.com
 .130bf.com
+.1314jbb.com
 .1337.cx
 .1337x.to
 .1345345.com
@@ -393,7 +396,6 @@ www.icloud.com
 .167gg.net
 .167ooo.net
 .167qqq.net
-.167rrr.net
 .167ttt.net
 .168.cr.rs
 .1680101kai.co
@@ -447,7 +449,6 @@ www.icloud.com
 .17bifa.com
 .17pps.com
 .17t17p.com
-.17uu.tw
 .17xtv.com
 .17xtv.net
 .18123.com
@@ -535,6 +536,7 @@ www.icloud.com
 .19588.vip
 .195888000.com
 .195966.cc
+.19599.vip
 .195aaa195.com
 .195dd195.com
 .195e195.com
@@ -553,6 +555,7 @@ www.icloud.com
 .1991way.com
 .1998cdp.org
 .19fun01.com
+.19letou.com
 .1bao.org
 .1dpw.com
 .1drv.com
@@ -857,6 +860,7 @@ www.icloud.com
 .337gg.net
 .337ll.net
 .337mm.net
+.337nnn.net
 .337ttt.net
 .337yyy.net
 .3399buyu.com
@@ -943,9 +947,10 @@ www.icloud.com
 .388123r.com
 .38823377.com
 .38856688.com
+.3917.am
+.3917.co
 .3917001.com
 .39170011.com
-.3917003.com
 .39170055.com
 .39171122.com
 .39173344.com
@@ -1019,7 +1024,6 @@ www.icloud.com
 .438888.com
 .44003885.com
 .4411buyu.com
-.44333989.com
 .444hjc.com
 .44555989.com
 .4455599.com
@@ -1089,13 +1093,13 @@ www.icloud.com
 .50104.evextv.com
 .50104.janxtv.site
 .50104.letxtv.com
+.50104.xmasxtv.com
 .5011668.com
 .50188.godxtv.com
 .50219.dmixtv.site
 .50294.onlextv.com
 .50294.u2xtv.com
 .50344.janxtv.site
-.50352.5lxtv.com
 .50418.9aca1.com
 .50559.com
 .505981.com
@@ -1105,7 +1109,6 @@ www.icloud.com
 .50na50.net
 .50webs.com
 .51.ca
-.51.la
 .51.serveftp.com
 .512.tv321.pw
 .512539700c.top
@@ -1241,6 +1244,7 @@ www.icloud.com
 .57138.com
 .58.from-hi.com
 .5802365.com
+.58559.com
 .585836.cc
 .585837.cc
 .5868yh.com
@@ -1551,7 +1555,6 @@ www.icloud.com
 .7911hh.com
 .7966.com
 .799299.com
-.799499.com
 .7afcp.com
 .7capture.com
 .7cow.com
@@ -1646,6 +1649,7 @@ www.icloud.com
 .85cc.net
 .85cc.us
 .85po.com
+.85porn.com
 .85porn.net
 .85st.com
 .85tube.com
@@ -1750,7 +1754,6 @@ www.icloud.com
 .8yabo.com
 .8z1.net
 .9000.vip
-.90011.com
 .9001700.com
 .9001yh.com
 .90022.cc
@@ -1785,6 +1788,7 @@ www.icloud.com
 .920vpn.com
 .922.info.tm
 .922.serveftp.com
+.925925.com
 .9269av.co
 .928.plus
 .9288js.com
@@ -1847,6 +1851,7 @@ www.icloud.com
 .975648132.com
 .975648133.com
 .975648134.com
+.975648136.com
 .97777vip.com
 .977ai.com
 .97919.com
@@ -2548,7 +2553,6 @@ www.icloud.com
 .albeats.com
 .alchemysynth.com
 .alcon
-.aldeadesigns.com
 .alearroyo.com
 .alesso.net
 .alexa.com
@@ -3780,6 +3784,7 @@ www.icloud.com
 .b6673.com
 .b6797.com
 .b6812.com
+.b7688.com
 .b778.com
 .b7869.com
 .b7919.com
@@ -3826,6 +3831,7 @@ www.icloud.com
 .badoink.com
 .badoo.com
 .bag-glasses1.com
+.bagbackpack.com
 .bahamut.com.tw
 .baicaonetwork.com
 .baidu-18.com
@@ -4472,7 +4478,6 @@ www.icloud.com
 .bet365.es
 .bet3658802.com
 .bet8835.com
-.bet9411.com
 .bet9422.com
 .bet9466.com
 .bet9477.com
@@ -4542,6 +4547,7 @@ www.icloud.com
 .bi-si2.xyz
 .bi-si7.xyz
 .bi-si8.xyz
+.bi-si888.xyz
 .bi-si9.xyz
 .bi-si999.xyz
 .bianlei.com
@@ -4786,6 +4792,7 @@ www.icloud.com
 .blog.boxcar.io
 .blog.cloudboost.io
 .blog.com
+.blog.coreylanier.com
 .blog.cotten.io
 .blog.cryptographyengineering.com
 .blog.de
@@ -6270,6 +6277,7 @@ www.icloud.com
 .ceb
 .cebay.com
 .cecc.gov
+.cedarsky.com
 .ceec.cf
 .celavi.ch
 .celebgramme.com
@@ -6336,6 +6344,7 @@ www.icloud.com
 .championshipseriesleague.com
 .chan.sankakucomplex.com
 .chanel
+.changchengremit.com
 .change.org
 .changeip.name
 .changeip.net
@@ -6886,6 +6895,7 @@ www.icloud.com
 .cmule.org
 .cmx.im
 .cn-proxy.com
+.cn.52qiaoke.com
 .cn.5minjz.com
 .cn.akinator.com
 .cn.bigshorts.tv
@@ -6946,6 +6956,7 @@ www.icloud.com
 .cnnmoney.com
 .cnnmoneystream.com
 .cnnphilippines.com
+.cnnpoint.com
 .cnnpolitics.com
 .cnpmjs.org
 .cnpoco.com
@@ -6992,6 +7003,7 @@ www.icloud.com
 .coffee-maker-repair-tw.gq
 .coffeebl.xyz
 .cog.org
+.coiffureandrea.ch
 .coiledfist.com
 .coin2co.in
 .coinbase.com
@@ -7201,6 +7213,7 @@ www.icloud.com
 .cqcorea.com
 .cqhczx.com
 .cr
+.cr7.one
 .crabdance.com
 .crabriones.com.ar
 .crach.tp9.info.tm
@@ -7520,6 +7533,7 @@ www.icloud.com
 .d42i.r5.cr.rs
 .d5253.com
 .d5350.com
+.d5359.com
 .d5555.co
 .d5572.com
 .d5585.com
@@ -7562,7 +7576,6 @@ www.icloud.com
 .daikynguyenvn.com
 .dailey1.net
 .dailidaili.com
-.dailybasis.com
 .dailyecho.co.uk
 .dailym.ai
 .dailymail.co.uk
@@ -7859,6 +7872,7 @@ www.icloud.com
 .demosisto.hk
 .dengeamerika.com
 .dengeki.com
+.dengfeng666.com
 .dengiamerika.com
 .denizgunes.net
 .deno.land
@@ -7936,6 +7950,7 @@ www.icloud.com
 .df8gg.com
 .df8mm.com
 .dfas.mil
+.dfh29.com
 .dfh48.com
 .dfiles.eu
 .dfn.org
@@ -8093,7 +8108,9 @@ www.icloud.com
 .disney-plus.net
 .disney-studio.com
 .disney-studio.net
+.disney.asia
 .disney.be
+.disney.ch
 .disney.com
 .disney.id
 .disney.io
@@ -8110,10 +8127,13 @@ www.icloud.com
 .disneyenconcert.com
 .disneyiejobs.com
 .disneyinflight.com
+.disneyinternational.com
+.disneyinternationalhd.com
 .disneyjunior.com
 .disneyjuniortreataday.com
 .disneylatino.com
 .disneymagicmoments.it
+.disneymagicmomentsme.com
 .disneyme.com
 .disneymeetingsandevents.com
 .disneymovieinsiders.com
@@ -8125,6 +8145,7 @@ www.icloud.com
 .disneyredirects.com
 .disneysrivieraresort.com
 .disneystore.com
+.disneystreaming.com
 .disneysubscription.com
 .disneytvajobs.com
 .disneyworld-go.com
@@ -8178,6 +8199,7 @@ www.icloud.com
 .dmas.com.au
 .dmc.nico
 .dmcdn.net
+.dmed.technology
 .dmesg.app
 .dmhy.org
 .dmm-extension.com
@@ -8374,6 +8396,7 @@ www.icloud.com
 .dougscripts.com
 .douhokanko.net
 .doujin-moe.us
+.doujinantena.com
 .doujincafe.com
 .doust.net.au
 .douwriteright.com
@@ -8533,6 +8556,8 @@ www.icloud.com
 .dstemp.com.ar
 .dstk.dk
 .dstv
+.dtci.co
+.dtci.technology
 .dtdns.net
 .dtiblog.com
 .dtic.mil
@@ -8961,6 +8986,7 @@ www.icloud.com
 .eddieyang.com
 .edditstatic.com
 .edeka
+.edenriegel.com
 .edenrules.com
 .edgecastcdn.net
 .edgedatg.com
@@ -9188,9 +9214,9 @@ www.icloud.com
 .entnt.com
 .entreconsultas.cl
 .entreconsultas.com.ar
-.entrecopas.com.ar
 .entrust.net
 .entrustdatacard.com
+.entunn.com
 .environment.google
 .envitreat.biz
 .envitreat.net
@@ -9342,7 +9368,6 @@ www.icloud.com
 .etokki.com
 .etowns.net
 .etowns.org
-.etransfer.interac.ca
 .ets.cc
 .etsy.com
 .ettego.com
@@ -10852,6 +10877,7 @@ www.icloud.com
 .fujixerox
 .fuli.ba
 .fuli.us
+.fuli06.com
 .fuli09.com
 .fuli833.com
 .fuliba.mobi
@@ -10902,7 +10928,6 @@ www.icloud.com
 .fun8878.com
 .fun8898.com
 .fun88asia1.com
-.fun9990.com
 .funball78.com
 .fundaiphone5s.com
 .fundpaypal.com
@@ -11461,7 +11486,6 @@ www.icloud.com
 .giveawaylist.com
 .givemegay.com
 .gizlen.net
-.gj858.com
 .gjczz.com
 .gl
 .glade
@@ -12775,6 +12799,7 @@ www.icloud.com
 .hkgalden.com
 .hkgalden.org
 .hkgolden.com
+.hkgolden.media
 .hkgpao.com
 .hkgreenradio.org
 .hkheadline.com
@@ -12841,6 +12866,7 @@ www.icloud.com
 .hn6gc.cnamedns.net
 .hnjhj.com
 .hnntube.com
+.hnw-cpa.com
 .hobby-site.com
 .hobby-site.org
 .hockeyapp.net
@@ -12853,7 +12879,6 @@ www.icloud.com
 .holeyfuck.com
 .hollywoodtuna.com
 .hololens.com
-.holsterformer.com
 .holymountaincn.com
 .holyshit.com
 .holyspiritspeaks.org
@@ -13486,6 +13511,7 @@ www.icloud.com
 .ietf.org
 .ifanqiang.com
 .ifcayouth.org
+.ifconfig.me
 .ifcss.org
 .ifei.com.tw
 .ifeidns.com
@@ -14164,6 +14190,7 @@ www.icloud.com
 .istockphoto.com
 .isunaffairs.com
 .isuntv.com
+.it-como-hobby.com
 .it.bnaz.org
 .it.weekendmaxmara.com
 .itaboo.info
@@ -14175,6 +14202,7 @@ www.icloud.com
 .itau
 .itb18.com
 .itb22.com
+.itb606.com
 .itcamefromtheradio.com
 .itcanwait.com
 .itcfonts.com
@@ -14425,6 +14453,7 @@ www.icloud.com
 .jbo27.com
 .jbo568.com
 .jbo61.com
+.jbo830.com
 .jbo84.com
 .jbo87.com
 .jbo9.com
@@ -14566,7 +14595,6 @@ www.icloud.com
 .jizzthis.com
 .jizztogo.com
 .jj2121.com
-.jj2365.com
 .jj766.net
 .jj773.net
 .jjdong7.com
@@ -15071,6 +15099,7 @@ www.icloud.com
 .koyuman.com
 .kozow.com
 .kp
+.kpapk.com
 .kphimsex.net
 .kpi002.com
 .kpmg
@@ -15332,7 +15361,9 @@ www.icloud.com
 .le191.com
 .le196.com
 .le2018.com
+.le375.com
 .le418.com
+.le434.com
 .le5888.com
 .le787.com
 .le881.com
@@ -15465,7 +15496,6 @@ www.icloud.com
 .letou114.net
 .letou123.com
 .letou123.net
-.letou186.com
 .letou188.net
 .letou2.com
 .letou2560.com
@@ -15477,7 +15507,6 @@ www.icloud.com
 .letou66.net
 .letou661.com
 .letou666.com
-.letou6677.com
 .letou679.com
 .letou77.net
 .letou798.com
@@ -15544,6 +15573,7 @@ www.icloud.com
 .liberal.org.hk
 .liberapay.com
 .liberapay.org
+.libertics.com.ar
 .libertytimes.com.tw
 .libo15.com
 .library.pressdisplay.com
@@ -15577,7 +15607,6 @@ www.icloud.com
 .lightyearvpn.com
 .ligmincha.org
 .lih.kg
-.lihi1.com
 .lihkg.com
 .liho.club
 .liho2.xyz
@@ -15956,6 +15985,7 @@ www.icloud.com
 .m.12manapp.com
 .m.1680100.com
 .m.1680380.com
+.m.1687200.com
 .m.188betkr.com
 .m.188live.net
 .m.1eighty8.com
@@ -16000,7 +16030,6 @@ www.icloud.com
 .m.h9-h9.com
 .m.huancai66.com
 .m.kcai332.com
-.m.kcai772.com
 .m.kuihua888.com
 .m.manxwaplay.org
 .m.mbetxapp36.com
@@ -16016,7 +16045,6 @@ www.icloud.com
 .m.pc500.cc
 .m.pncle8.com
 .m.ptcff666.com
-.m.rb288.com
 .m.sdyl188.com
 .m.sh22.us
 .m.ts8577.com
@@ -16156,7 +16184,6 @@ www.icloud.com
 .mail.ihg.com
 .mail.kcdgs.com
 .mail.kohako.com
-.mail.lumimodule.com
 .mail.marthaschwartz.com
 .mail.mediamonks.com
 .mail.mes.org
@@ -16332,7 +16359,6 @@ www.icloud.com
 .maserati
 .mash.to
 .mashable.com
-.mashiro.best
 .masiukiewicz.pl
 .maskedip.com
 .maskedsingerfox.com
@@ -16385,7 +16411,6 @@ www.icloud.com
 .mathjax.org
 .mathmidterm.com
 .mathoverflow.net
-.mathworld.wolfram.com
 .matome-plus.com
 .matome-plus.net
 .matorral.cl
@@ -16548,7 +16573,6 @@ www.icloud.com
 .mepn.com
 .meraki-go.com
 .merakigo.com
-.mercaderia.cl
 .mercaderias.cl
 .mercari.com
 .mercatox.com
@@ -17261,15 +17285,12 @@ www.icloud.com
 .mrbasic.com
 .mrbonus.com
 .mrc58.com
-.mrcat0.com
 .mrcat123.com
 .mrcat166.com
 .mrcat168.com
-.mrcat3.com
 .mrcat666.com
 .mrcat68.com
-.mrcatfcat.com
-.mrcatlove.com
+.mrcatad.com
 .mrcboy.com
 .mrface.com
 .mrgreen.com
@@ -17282,7 +17303,6 @@ www.icloud.com
 .mrstiff.it
 .mrt188.com
 .mrtc28.com
-.mrtome.com
 .mrtweet.com
 .ms-studiosmedia.com
 .ms.kity.pw
@@ -17591,6 +17611,7 @@ www.icloud.com
 .mysinablog.com
 .mysinchew.com
 .mysocialworklab.com
+.mysoresandal.co.in
 .myspace.com
 .myspacecdn.com
 .mysql.com
@@ -17727,6 +17748,7 @@ www.icloud.com
 .nav.jbb0016.com
 .nav.qm20000.com
 .navarroaxel.com.ar
+.navarroreport.com
 .naver.co.jp
 .naver.com
 .naver.jp
@@ -17900,7 +17922,6 @@ www.icloud.com
 .newisiknowledge.com
 .newjrs.xyz
 .newlandmagazine.com.au
-.newline.fi
 .newlysprung.net
 .newmediarights.org
 .newmexico.gov
@@ -18020,6 +18041,7 @@ www.icloud.com
 .ngeo.com
 .nginx.com
 .nginx.org
+.nguyentandung.org
 .nhactruoc75.com
 .nhance.com
 .nhentai.com
@@ -18309,7 +18331,7 @@ www.icloud.com
 .nokola.com
 .nola.com
 .nolencasa.com
-.nom1.tk
+.nomadlandmovie.ch
 .nomadproject.io
 .nomulus.foo
 .non-fakenews.org
@@ -18534,6 +18556,7 @@ www.icloud.com
 .nzchinese.com
 .nzchinese.net.nz
 .nzmao.co.nz
+.nzradioguide.co.nz
 .nztd29.com
 .nztdsm.com
 .nzz.ch
@@ -18632,6 +18655,7 @@ www.icloud.com
 .ogli.org
 .ogp.me
 .ohara.cl
+.ohcam.net
 .ohchr.org
 .ohhfuck.me
 .ohiofreenet.org
@@ -19202,7 +19226,6 @@ www.icloud.com
 .patrulator.ro
 .patw.idv.tw
 .paulcserver1.co.uk
-.paulinazanartu.cl
 .paulsimon-music.com
 .pausedmemories.com
 .pavilhaodaagua.com
@@ -19743,7 +19766,6 @@ www.icloud.com
 .plays.com.tw
 .playshow.io
 .playshowtv.com
-.playssh.com
 .playstation
 .playstation.com.hk
 .playtube.pk
@@ -19824,6 +19846,7 @@ www.icloud.com
 .polissya.eu
 .politicalchina.org
 .politicalconsultation.org
+.politicspa.com
 .politiscales.net
 .polo
 .poloniex.com
@@ -21128,7 +21151,6 @@ www.icloud.com
 .rutube.ru
 .ruuh.com
 .ruyiseek.com
-.rv55.com
 .rw
 .rwaitkus.com
 .rwdxtv.com
@@ -21358,7 +21380,6 @@ www.icloud.com
 .sbo1088.com
 .sbo8810.com
 .sbobet.com
-.sbofa88.com
 .sbs
 .sbs.com.au
 .sbsstudio.net63.net
@@ -21378,6 +21399,7 @@ www.icloud.com
 .scdn.co
 .sceadu.blog.shinobi.jp
 .schaeffler
+.schalk.com.br
 .schema.org
 .schemer.com
 .schiffvitamins.com
@@ -21537,7 +21559,6 @@ www.icloud.com
 .sensorynetworks.com
 .senyu.com.tw
 .sephora.com
-.seqing911.com
 .seqingx.com
 .sequence.com
 .seraph.me
@@ -22130,7 +22151,6 @@ www.icloud.com
 .snl.no
 .snowlionpub.com
 .snowpear.com
-.snuop.com
 .so-net.net.tw
 .soas.ac.uk
 .soasta-dswb.com
@@ -22462,7 +22482,6 @@ www.icloud.com
 .ss9874.com
 .ssa.gov
 .ssarea.com
-.ssasolutions.ml
 .sscube5.com
 .ssd5.cf
 .ssdevrd.com
@@ -22543,6 +22562,8 @@ www.icloud.com
 .standwithhk.org
 .stanford.edu
 .staples
+.star-brasil.com
+.star-latam.com
 .star-telegram.com
 .starbucks-stars.com
 .starbucks.be
@@ -22590,6 +22611,7 @@ www.icloud.com
 .starwarsfallenorder.com
 .starwarsgalacticstarcruiser.com
 .starwarsjedifallenorder.com
+.starwarskids.com
 .starwarstheoldrepublic.com
 .starwebconnect.com
 .starworldmacau.com
@@ -22738,7 +22760,6 @@ www.icloud.com
 .studiodata.com.ar
 .studioluxfm.com
 .studioplus.io
-.studiopluscn.com
 .studylink.govt.nz
 .studywatchbyverily.com
 .studywatchbyverily.org
@@ -22866,7 +22887,6 @@ www.icloud.com
 .superzooi.com
 .suppig.net
 .supplybestjerseys.com
-.supplyplus.net.au
 .supplyrussia.com
 .support-china.apple-support.akadns.net
 .support.appsflyer.com
@@ -23133,6 +23153,7 @@ www.icloud.com
 .taup.net
 .taup.org.tw
 .taweet.com
+.taxzp.com
 .taylanekinci.com
 .taylor-swift-club.sclub.tw
 .taylorandfrancis.com
@@ -23155,6 +23176,7 @@ www.icloud.com
 .tb771.com
 .tb772.com
 .tb777.com
+.tb8600.com
 .tb9906.com
 .tb9907.com
 .tb9991.com
@@ -23335,7 +23357,6 @@ www.icloud.com
 .tf18.com
 .tf8883.com
 .tfd.org.tw
-.tfg2.com
 .tfhub.dev
 .tfiflve.com
 .tfino.com
@@ -23459,6 +23480,7 @@ www.icloud.com
 .themarvelexperiencetour.com
 .themathsfactor.com
 .themecraft.net
+.themelodyfarm.com
 .thememriblog.org
 .themostimportantnews.com
 .themoviedb.org
@@ -24114,7 +24136,6 @@ www.icloud.com
 .tteshop.com
 .ttf118.com
 .ttkacz.com
-.ttksvip.net
 .ttt3285.com
 .tttan.com
 .ttv.com.tw
@@ -24429,6 +24450,7 @@ www.icloud.com
 .tx2600.net
 .tx68.vip
 .tx69.net
+.tx8588.com
 .txcloud.net
 .txdirectv.com
 .txmao.xyz
@@ -25612,7 +25634,6 @@ www.icloud.com
 .vw033.com
 .vw066.com
 .vw077.com
-.vw085.com
 .vw099.com
 .vw112.com
 .vw113.com
@@ -26271,6 +26292,7 @@ www.icloud.com
 .woflthenewsstation.com
 .wogx.com
 .wokar.org
+.wokkxv.com
 .wolfatbestbuy.com
 .wolfatbestbuy.net
 .wolfax.com
@@ -26408,7 +26430,6 @@ www.icloud.com
 .wsdc3388.com
 .wsdc3399.com
 .wsdc44.com
-.wsdc440.com
 .wsdc4411.com
 .wsdc442.com
 .wsdc4433.com
@@ -26417,6 +26438,7 @@ www.icloud.com
 .wsdc447.com
 .wsdc4477.com
 .wsdc449.com
+.wsdc554.com
 .wsdc5566.com
 .wsdc5577.com
 .wsdc6600.com
@@ -26587,6 +26609,7 @@ www.icloud.com
 .www.161ee.net
 .www.161sex.com
 .www.167mmm.net
+.www.167rrr.net
 .www.1680100.com
 .www.16maple.com
 .www.16sihu.com
@@ -26668,7 +26691,6 @@ www.icloud.com
 .www.240.net
 .www.24option.com
 .www.25522jb.com
-.www.262xx.com
 .www.263xx.com
 .www.264802.com
 .www.26869273.idv.tw
@@ -26781,6 +26803,7 @@ www.icloud.com
 .www.51wanqiu.net
 .www.5200aaaa.com
 .www.520nh.net
+.www.525xx.com
 .www.5278.mobi
 .www.52gsz.com
 .www.52sex.cc
@@ -26907,6 +26930,7 @@ www.icloud.com
 .www.88yule12.com
 .www.8964.com
 .www.8proxy.com
+.www.90011.com
 .www.90011a.com
 .www.90011b.com
 .www.90011d.com
@@ -26995,7 +27019,6 @@ www.icloud.com
 .www.actionnewslive.com
 .www.actionnewslive.tv
 .www.adameve.com
-.www.adelaidecasino.com.au
 .www.adidas-group.com
 .www.adj.idv.tw
 .www.admissionadviser.com
@@ -27009,7 +27032,6 @@ www.icloud.com
 .www.aeromatasia.com
 .www.aevpn.com
 .www.afa.gov.tw
-.www.afreeca.com
 .www.afreewebdirectory.com
 .www.afrsmartinvestor.com.au
 .www.ag2958.com
@@ -27070,7 +27092,6 @@ www.icloud.com
 .www.amnesty.se
 .www.amorz.com
 .www.amyl66.com
-.www.amyl99.com
 .www.amystalk.com
 .www.anastasialin.com
 .www.andong.org.tw
@@ -27161,6 +27182,7 @@ www.icloud.com
 .www.awebproxy.com
 .www.axiaplus.gr
 .www.ayiconsulting.com
+.www.ayx121.com
 .www.azattyk.org
 .www.azattyq.org
 .www.aznude.com
@@ -27262,7 +27284,6 @@ www.icloud.com
 .www.betway118.com
 .www.betway119.com
 .www.betway858.com
-.www.betway88.com
 .www.betwin999.com
 .www.bfsforex.com
 .www.bg1235.com
@@ -27479,6 +27500,7 @@ www.icloud.com
 .www.cbplus.com
 .www.ccavgirl.com
 .www.ccb-darmstadt.com
+.www.ccc3285.com
 .www.cccmelbourne.org.au
 .www.ccfellow.org
 .www.ccworld.us
@@ -27574,6 +27596,7 @@ www.icloud.com
 .www.cnfree.com
 .www.cnhelloavgirls.com
 .www.cnki.net.in
+.www.cnpronvpn.com
 .www.cnsnews.com
 .www.cntvboxnow.com
 .www.cnzyffw.org
@@ -27698,7 +27721,6 @@ www.icloud.com
 .www.df797.com
 .www.df915.com
 .www.df983.com
-.www.dfh29.com
 .www.dfnba.com
 .www.dgbas.gov.tw
 .www.dh6666.com
@@ -27713,7 +27735,6 @@ www.icloud.com
 .www.digiflowtech.com
 .www.digiket.com
 .www.digisocial.com
-.www.digitalpoint.com
 .www.digitalsafe.ch
 .www.digitalvajra.com
 .www.dissidenti-ultra.de
@@ -27828,6 +27849,7 @@ www.icloud.com
 .www.eiuperspectives.com
 .www.elephantdrive.com
 .www.elkosmos.gr
+.www.elle.com.hk
 .www.ellisonballet.com
 .www.elsevierweekblad.nl
 .www.emiao768.com
@@ -27840,6 +27862,7 @@ www.icloud.com
 .www.englishdaily626.com
 .www.enspire-capital.com
 .www.entrepreneurshipaward.com
+.www.enya.com
 .www.eporner.eu
 .www.eraysecure.com.tw
 .www.ericjoung.idv.tw
@@ -27929,7 +27952,6 @@ www.icloud.com
 .www.fengherili.xyz
 .www.ffeap.com
 .www.fff176.net
-.www.fff228.com
 .www.fgca.idv.tw
 .www.fh121.com
 .www.fh139.com
@@ -27938,7 +27960,6 @@ www.icloud.com
 .www.fhtzvip.com
 .www.fia.gov.tw
 .www.fides.org
-.www.fifixtv.com
 .www.filepoodles.com
 .www.fileshare.ro
 .www.filibustercartoons.com
@@ -28107,7 +28128,6 @@ www.icloud.com
 .www.fy2.cc
 .www.fy685.com
 .www.fy88.com
-.www.fy9.cc
 .www.fy919.com
 .www.fya8.com
 .www.fyt38.com
@@ -28234,7 +28254,6 @@ www.icloud.com
 .www.gulige.com
 .www.guliw.com
 .www.gunworld.com.au
-.www.gutwire.com
 .www.gv104.com
 .www.gvlibrary.com
 .www.gz1616.com
@@ -28516,6 +28535,7 @@ www.icloud.com
 .www.itslean.com
 .www.ittfdream.com
 .www.iu45.me
+.www.ivacycn.com
 .www.iveganmart.com
 .www.ivideo6630.0fees.us
 .www.ivpncup.me
@@ -28698,6 +28718,7 @@ www.icloud.com
 .www.kidderminstershuttle.co.uk
 .www.kidinn.com
 .www.killingfieldsmuseum.com
+.www.kima66.net
 .www.kimandrewelliott.com
 .www.kimosong.com
 .www.kingbally.com
@@ -28763,6 +28784,7 @@ www.icloud.com
 .www.larganmed.com.tw
 .www.lastss.com
 .www.lastweektonight.com
+.www.lataayoutube.com
 .www.lavaone.com
 .www.lavavpn.com
 .www.lavozdigital.net
@@ -28785,6 +28807,7 @@ www.icloud.com
 .www.lestapackaging.co.uk
 .www.let89.com
 .www.letou118.net
+.www.letou6677.com
 .www.letou988.com
 .www.letougames.com
 .www.lf168.com
@@ -28854,6 +28877,7 @@ www.icloud.com
 .www.loverslab.com
 .www.lpxtv.com
 .www.lrt.lt
+.www.ls663.com
 .www.lsecapital.com
 .www.lsj.xyz
 .www.lsj1080.com
@@ -28870,7 +28894,6 @@ www.icloud.com
 .www.luxehomes.com.hk
 .www.lweb14.twmail.cc
 .www.ly.gov.tw
-.www.lyhzjd.com
 .www.lyjhc.com
 .www.lzj.org
 .www.m19b.com
@@ -29580,6 +29603,7 @@ www.icloud.com
 .www.shireyishunjian.org
 .www.shireyishunjian.vip
 .www.shiyongtao.cn
+.www.shop-pro.cc
 .www.shs.edu.tw
 .www.shuitong888.com
 .www.shuku.net
@@ -29702,6 +29726,7 @@ www.icloud.com
 .www.systemsadvisers.com
 .www.szgay.net
 .www.t3641.com
+.www.t4ea.com
 .www.t9kk.com
 .www.taaze.com.tw
 .www.tachles.ch
@@ -29793,7 +29818,6 @@ www.icloud.com
 .www.threefloorfashion.com
 .www.throwww.com
 .www.thumbapps.org
-.www.ti.com
 .www.ti9mfk.com
 .www.tiananmen1989.net
 .www.tianhui.org.tw
@@ -30231,6 +30255,7 @@ www.icloud.com
 .www.xj7755.com
 .www.xl18.biz
 .www.xl18.org
+.www.xl18.run
 .www.xlfmguanyin.com
 .www.xm.co.uk
 .www.xn--jlqz7wnvax2ocxskuz.com
@@ -30290,7 +30315,6 @@ www.icloud.com
 .www.yicfff.tw
 .www.yiday.cc
 .www.yihenji.com
-.www.yinhe0011.com
 .www.yinhelianbang.com
 .www.yinling2.top
 .www.yinmo.xyz
@@ -30302,6 +30326,7 @@ www.icloud.com
 .www.yl7.com
 .www.yl8.com
 .www.ylylc77.com
+.www.ym260.com
 .www.ymcahk.org.hk
 .www.yobet.com
 .www.yooread.com
@@ -30314,6 +30339,7 @@ www.icloud.com
 .www.your-freedom.de
 .www.youramateurporn.com
 .www.yourpornbus.com
+.www.yourube.com
 .www.yourworldreport.com
 .www.youss.org
 .www.youthforhumanrights.org
@@ -30712,7 +30738,6 @@ www.icloud.com
 .xn--9kr7l.com
 .xn--9trs65b.com
 .xn--b4w605ferd
-.xn--boi-hqa77c.eu
 .xn--cckwcxetd
 .xn--cg4bki
 .xn--czq75pvv1aj5c.org
@@ -30850,6 +30875,7 @@ www.icloud.com
 .xw188.com
 .xwall.io
 .xx-book.com
+.xx-book.xyz
 .xx-map.com
 .xx.domain888.pw
 .xx.freepac.pw
@@ -31006,6 +31032,7 @@ www.icloud.com
 .yandexcloud.net
 .yanghengjun.com
 .yangjianli.com
+.yangyangyang.me
 .yao.cl
 .yaoluba.com
 .yarininsuyu.com
@@ -31477,6 +31504,7 @@ www.icloud.com
 .zg111.1apps.com
 .zg88.1apps.com
 .zg99.1apps.com
+.zgcssb.com
 .zgsddh.com
 .zgzcjj.net
 .zh.2lib.org

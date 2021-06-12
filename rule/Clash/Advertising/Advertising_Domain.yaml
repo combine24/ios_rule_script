@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-12 02:10:43
+# UPDATED: 2021-06-13 02:06:22
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 47756
-# DOMAIN: 20745
+# DOMAIN-SUFFIX: 47758
+# DOMAIN: 20742
 # IP-CIDR: 253
 # IP-CIDR6: 1
-# TOTAL: 68841
+# TOTAL: 68840
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -2044,6 +2044,7 @@ payload:
   - 'adsaturn.com'
   - 'adsb4trk.com'
   - 'adsbingo.com'
+  - 'adsbox.detik.com'
   - 'adsbtrack.com'
   - 'adsby.klikki.com'
   - 'adscan.yelabapp.com'
@@ -3198,7 +3199,6 @@ payload:
   - 'appleverif.com'
   - 'applicationgrabb.net'
   - 'applog.camera360.com'
-  - 'applog.ucdns.uc.cn'
   - 'applythegraft.com'
   - 'appmetrica.yandex.net'
   - 'appnexus.com'
@@ -4398,6 +4398,7 @@ payload:
   - 'businesscoffeemedia.com'
   - 'businessdocs.org'
   - 'businessinsight-az.com'
+  - 'businesspluspk.com'
   - 'bustcream-pro.com'
   - 'bustlinganimal.com'
   - 'buttcandy.com'
@@ -6902,7 +6903,6 @@ payload:
   - 'down.3lsoft.com'
   - 'down.downholic.com'
   - 'down.feiyang163.com'
-  - 'down.kuaixia.com'
   - 'down.mykings.pw'
   - 'down.qq38.org'
   - 'down.rising.net.cn'
@@ -8641,7 +8641,6 @@ payload:
   - 'gamepsvita.com'
   - 'gameraidz.com'
   - 'gamercheatblog.com'
-  - 'gamercheatscode.com'
   - 'gamerscheatbook.com'
   - 'gamersdon.com'
   - 'gamersgiveaways.com'
@@ -8947,7 +8946,6 @@ payload:
   - 'giveitalltheresqq.com'
   - 'gj.applog.uc.cn'
   - 'gj.track.uc.cn'
-  - 'gjapplog.uc.cn'
   - 'gjtrack.uc.cn'
   - 'gk4aiims.000webhostapp.com'
   - 'gklmedia.com'
@@ -9549,6 +9547,7 @@ payload:
   - 'hardyskills.com'
   - 'hariharaestates.com'
   - 'harmonyhollow.net'
+  - 'harmonyorgsolutions.com'
   - 'harrenmedia.com'
   - 'harrow.aa978.com'
   - 'harshita-india.com'
@@ -9740,7 +9739,6 @@ payload:
   - 'hkdecoman.com'
   - 'hkitforce.com'
   - 'hkng001.batmobi.net'
-  - 'hljweida.com'
   - 'hlpnowp-c.com'
   - 'hmbgumjgey.com'
   - 'hmonghotties.com'
@@ -12791,7 +12789,6 @@ payload:
   - 'musikzoo.com'
   - 'mustang-browser.com'
   - 'mustardtech.com'
-  - 'mutlubak.com'
   - 'muuojcu.xyz'
   - 'muvflix.com'
   - 'muwmedia.com'
@@ -16472,7 +16469,6 @@ payload:
   - 'skinsrate.com'
   - 'skinsregal.com'
   - 'skinsrise.com'
-  - 'skinstrue.com'
   - 'skinswhite.com'
   - 'skintrade24.com'
   - 'skipp-hacks.net'
@@ -16682,6 +16678,7 @@ payload:
   - 'software-hacks.com'
   - 'software-lite.com'
   - 'software-phile.com'
+  - 'softwarecracks.org'
   - 'softwarecrackworks.com'
   - 'softwarestab.com'
   - 'softwaresultan.com'
@@ -19547,6 +19544,7 @@ payload:
   - 'web.vortex.data.msn.com'
   - 'web.w300.vhostgo.com'
   - 'web.yuppipuppy.com'
+  - 'web100kz.com'
   - 'web1b.netreflector.com'
   - 'web2.deja.com'
   - 'web20links.com'
@@ -20515,7 +20513,6 @@ payload:
   - 'yourperlebleue.com'
   - 'yourps34free.com'
   - 'yourrewardzone.com'
-  - 'yoursmartrewards.com'
   - 'yourstats.net'
   - 'yourtrustedhacks.com'
   - 'yousendit.inq.com'
@@ -27054,6 +27051,7 @@ payload:
   - '.applog.musical.ly'
   - '.applog.reader.qq.com'
   - '.applog.uc.cn'
+  - '.applog.ucdns.uc.cn'
   - '.applogapi.autohome.com.cn'
   - '.applogios.uc.cn'
   - '.applovin.com'
@@ -38933,6 +38931,7 @@ payload:
   - '.gixmo.dk'
   - '.gj500.com'
   - '.gj632.cn'
+  - '.gjapplog.uc.cn'
   - '.gjghy.com'
   - '.gjh111.cn'
   - '.gjhkyh.4fresh.ru'

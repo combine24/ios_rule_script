@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-12 02:10:42
+# UPDATED: 2021-06-13 02:06:20
 # HOST-KEYWORD: 86
-# HOST-SUFFIX: 47756
-# HOST: 20745
+# HOST-SUFFIX: 47758
+# HOST: 20742
 # IP-CIDR: 253
 # IP6-CIDR: 1
-# TOTAL: 68841
+# TOTAL: 68840
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -2043,6 +2043,7 @@ HOST,adsapi.snapchat.com,Advertising
 HOST,adsaturn.com,Advertising
 HOST,adsb4trk.com,Advertising
 HOST,adsbingo.com,Advertising
+HOST,adsbox.detik.com,Advertising
 HOST,adsbtrack.com,Advertising
 HOST,adsby.klikki.com,Advertising
 HOST,adscan.yelabapp.com,Advertising
@@ -3197,7 +3198,6 @@ HOST,applets.sulekha.com,Advertising
 HOST,appleverif.com,Advertising
 HOST,applicationgrabb.net,Advertising
 HOST,applog.camera360.com,Advertising
-HOST,applog.ucdns.uc.cn,Advertising
 HOST,applythegraft.com,Advertising
 HOST,appmetrica.yandex.net,Advertising
 HOST,appnexus.com,Advertising
@@ -4397,6 +4397,7 @@ HOST,businessbells.com,Advertising
 HOST,businesscoffeemedia.com,Advertising
 HOST,businessdocs.org,Advertising
 HOST,businessinsight-az.com,Advertising
+HOST,businesspluspk.com,Advertising
 HOST,bustcream-pro.com,Advertising
 HOST,bustlinganimal.com,Advertising
 HOST,buttcandy.com,Advertising
@@ -6901,7 +6902,6 @@ HOST,down.0551fs.com,Advertising
 HOST,down.3lsoft.com,Advertising
 HOST,down.downholic.com,Advertising
 HOST,down.feiyang163.com,Advertising
-HOST,down.kuaixia.com,Advertising
 HOST,down.mykings.pw,Advertising
 HOST,down.qq38.org,Advertising
 HOST,down.rising.net.cn,Advertising
@@ -8640,7 +8640,6 @@ HOST,gameplaylabs.com,Advertising
 HOST,gamepsvita.com,Advertising
 HOST,gameraidz.com,Advertising
 HOST,gamercheatblog.com,Advertising
-HOST,gamercheatscode.com,Advertising
 HOST,gamerscheatbook.com,Advertising
 HOST,gamersdon.com,Advertising
 HOST,gamersgiveaways.com,Advertising
@@ -8946,7 +8945,6 @@ HOST,giveitallhereqq.com,Advertising
 HOST,giveitalltheresqq.com,Advertising
 HOST,gj.applog.uc.cn,Advertising
 HOST,gj.track.uc.cn,Advertising
-HOST,gjapplog.uc.cn,Advertising
 HOST,gjtrack.uc.cn,Advertising
 HOST,gk4aiims.000webhostapp.com,Advertising
 HOST,gklmedia.com,Advertising
@@ -9548,6 +9546,7 @@ HOST,hardtofindmilk.com,Advertising
 HOST,hardyskills.com,Advertising
 HOST,hariharaestates.com,Advertising
 HOST,harmonyhollow.net,Advertising
+HOST,harmonyorgsolutions.com,Advertising
 HOST,harrenmedia.com,Advertising
 HOST,harrow.aa978.com,Advertising
 HOST,harshita-india.com,Advertising
@@ -9739,7 +9738,6 @@ HOST,hkcbeauty.com,Advertising
 HOST,hkdecoman.com,Advertising
 HOST,hkitforce.com,Advertising
 HOST,hkng001.batmobi.net,Advertising
-HOST,hljweida.com,Advertising
 HOST,hlpnowp-c.com,Advertising
 HOST,hmbgumjgey.com,Advertising
 HOST,hmonghotties.com,Advertising
@@ -12790,7 +12788,6 @@ HOST,musicleaked.com,Advertising
 HOST,musikzoo.com,Advertising
 HOST,mustang-browser.com,Advertising
 HOST,mustardtech.com,Advertising
-HOST,mutlubak.com,Advertising
 HOST,muuojcu.xyz,Advertising
 HOST,muvflix.com,Advertising
 HOST,muwmedia.com,Advertising
@@ -16471,7 +16468,6 @@ HOST,skinshub.net,Advertising
 HOST,skinsrate.com,Advertising
 HOST,skinsregal.com,Advertising
 HOST,skinsrise.com,Advertising
-HOST,skinstrue.com,Advertising
 HOST,skinswhite.com,Advertising
 HOST,skintrade24.com,Advertising
 HOST,skipp-hacks.net,Advertising
@@ -16681,6 +16677,7 @@ HOST,software-freee.com,Advertising
 HOST,software-hacks.com,Advertising
 HOST,software-lite.com,Advertising
 HOST,software-phile.com,Advertising
+HOST,softwarecracks.org,Advertising
 HOST,softwarecrackworks.com,Advertising
 HOST,softwarestab.com,Advertising
 HOST,softwaresultan.com,Advertising
@@ -19546,6 +19543,7 @@ HOST,web.ventunotech.com,Advertising
 HOST,web.vortex.data.msn.com,Advertising
 HOST,web.w300.vhostgo.com,Advertising
 HOST,web.yuppipuppy.com,Advertising
+HOST,web100kz.com,Advertising
 HOST,web1b.netreflector.com,Advertising
 HOST,web2.deja.com,Advertising
 HOST,web20links.com,Advertising
@@ -20514,7 +20512,6 @@ HOST,youronlinesoft.com,Advertising
 HOST,yourperlebleue.com,Advertising
 HOST,yourps34free.com,Advertising
 HOST,yourrewardzone.com,Advertising
-HOST,yoursmartrewards.com,Advertising
 HOST,yourstats.net,Advertising
 HOST,yourtrustedhacks.com,Advertising
 HOST,yousendit.inq.com,Advertising
@@ -27053,6 +27050,7 @@ HOST-SUFFIX,applog.mobike.com,Advertising
 HOST-SUFFIX,applog.musical.ly,Advertising
 HOST-SUFFIX,applog.reader.qq.com,Advertising
 HOST-SUFFIX,applog.uc.cn,Advertising
+HOST-SUFFIX,applog.ucdns.uc.cn,Advertising
 HOST-SUFFIX,applogapi.autohome.com.cn,Advertising
 HOST-SUFFIX,applogios.uc.cn,Advertising
 HOST-SUFFIX,applovin.com,Advertising
@@ -38932,6 +38930,7 @@ HOST-SUFFIX,giwzywnxnk.com,Advertising
 HOST-SUFFIX,gixmo.dk,Advertising
 HOST-SUFFIX,gj500.com,Advertising
 HOST-SUFFIX,gj632.cn,Advertising
+HOST-SUFFIX,gjapplog.uc.cn,Advertising
 HOST-SUFFIX,gjghy.com,Advertising
 HOST-SUFFIX,gjh111.cn,Advertising
 HOST-SUFFIX,gjhkyh.4fresh.ru,Advertising
