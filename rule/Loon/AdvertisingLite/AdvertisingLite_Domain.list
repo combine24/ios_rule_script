@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-13 02:06:21
+# UPDATED: 2021-06-14 02:06:21
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12708
-# DOMAIN: 14736
+# DOMAIN: 14719
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 296
-# TOTAL: 27927
+# TOTAL: 27910
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -722,7 +722,6 @@ abb963a46029eb.com
 abbeyblog.me
 abbp1.pw
 abc.hearst.co.uk
-abc.pema.cl
 abcdespanol.com
 abcompteur.com
 abcstats.com
@@ -3094,7 +3093,6 @@ c.dengbaozx.cn
 c.greystripe.com
 c.hit.ua
 c.iche88.cn
-c.j782e.cn
 c.lattebank.com
 c.lelangegg.cn
 c.mininini.cn
@@ -4010,7 +4008,6 @@ cryptoads.space
 cryptobara.com
 cryptomine.pro
 cryptonoter.com
-crystalmart.cn
 cs-bailing.com.cn
 cs-feige.iqiyi.com
 cs-op.douyucdn.cn
@@ -4904,7 +4901,6 @@ dyntrk.com
 dyscb.cn
 dywjcc.top
 dz4ad.com
-dzhss.cn
 dzmxze7hxwn6b.cloudfront.net
 dzsstye.com
 e-contenta.com
@@ -5495,6 +5491,7 @@ fg09t.com
 fgawegwr.chez.com
 fgddrrr.com
 fgjasshw.com
+fgoocsqg.com
 fhluqrhmqs.com
 fhserve.com
 ficusoid.xyz
@@ -7845,7 +7842,6 @@ loupan99.com
 love-banner.com
 loveadverts.com
 lovecam.com.br
-lovecar.net.cn
 loveclaw.com
 loveme.com
 lovercash.com
@@ -7945,7 +7941,6 @@ m.53trya.cn
 m.5vst8h.cn
 m.61lvi.cn
 m.6z1gf.cn
-m.74n3a.cn
 m.89kvh.cn
 m.8of9hd.cn
 m.8t5xo.cn
@@ -9174,6 +9169,7 @@ ohmcasting.com
 ohmwrite.com
 ohmystats.com
 ohsatum.info
+oicchina.com
 oicssiq.com
 oil.axelspringer.com
 ojrq.net
@@ -9323,7 +9319,6 @@ optimatic.com
 optimierung-der-website.de
 optimization-methods.com
 optimizely.appspot.com
-optimizelydata.com
 optimizesocial.com
 optimizesrv.com
 optimonk.com
@@ -9593,7 +9588,6 @@ peethobo.com
 pegaumsi.com
 pegloang.com
 pejqoq4cafo3bg9yqqqtk5e6s6.com
-pema.cl
 pennynetwork.com
 pennzxycrdmw.com
 pension-helene.cz
@@ -10377,7 +10371,6 @@ qgnqsebea.com
 qgwazwmlx.com
 qhupdate.com
 qianwei.wang
-qianyilamian.cn
 qidou.com
 qienews.cn
 qiheptnm80.com
@@ -10518,8 +10511,6 @@ rawoarsy.com
 rawr.at
 rayli.com.cn
 rays-counter.com
-raz-raz-mataz.com
-razwrite.com
 rbnt.org
 rbxtrk.com
 rcads.net
@@ -11012,6 +11003,7 @@ salon.com
 salvador24.com
 sambaads.com
 samboc.com
+samevay.com.cn
 samvaulter.com
 samvinva.info
 san-spr-01.net
@@ -12181,7 +12173,6 @@ sunny99.cholerik.cz
 sunnysmedia.com
 sunrow.com
 suntcontent.se
-suntechauto.com.cn
 suparewards.com
 super-links.net
 superadexchange.com
@@ -12545,7 +12536,6 @@ thumbnail-galleries.net
 thurnflfant.com
 ti583.com
 tianfus.com
-tianhuicun.com.cn
 tianji520.cn
 tianjinblg.com
 tianshu-x.gtimg.cn
@@ -12634,7 +12624,6 @@ todayapp.tv
 todayjiaxiang.cn
 togenron.com
 togroltu.net
-tok-dan-host.com
 tokenads.com
 tollfreeforwarding.com
 tomalinoalambres.com.ar
@@ -12714,7 +12703,6 @@ totaladperformance.com
 totallifeguru.com
 totdorancaltert.club
 totemcash.com
-totifiquo.com
 touchclarity.com
 touchrom.com
 touchxd.com
@@ -13618,7 +13606,6 @@ vovhiwr.com
 voxfind.com
 voyeurhit.com
 vp.html5.qq.com
-vpgf.qianyilamian.cn
 vpico.com
 vpie.net
 vpkq.cn
@@ -14005,7 +13992,6 @@ wqlkp.com
 wqzyt.net
 wrapper.ign.com
 wrapper.lemde.fr
-wrierville.com
 writingassociates.com
 wroclawski.com.pl
 ws.browsermine.com
@@ -14306,7 +14292,6 @@ xdtraffic.com
 xdwan.com
 xel-xel-fie.com
 xelllwrite.com
-xenfrastucter.com
 xeontopa.com
 xev2o.com
 xfast.host
@@ -14349,6 +14334,7 @@ xlspkqpnnqj.com
 xmas-xmas-wow.com
 xmaswrite.com
 xmaterial.tu.qq.com
+xmglass.cn
 xmlads.bid
 xmlmonetize.com
 xmlwizard.com
@@ -14547,7 +14533,6 @@ yr9n47004g.com
 yrdrtzmsmt.com
 ys.da.mgtv.com
 ysm.ezprice.net
-ysont.cn
 ystammedre.info
 yt-adv.bn.netease.com
 ytelc.com
@@ -14625,7 +14610,6 @@ zel-zel-fie.com
 zelllwrite.com
 zelrasty.net
 zengenti.com
-zenhppyad.com
 zenkreka.com
 zenoviaexchange.com
 zenoviagroup.com
@@ -14667,7 +14651,6 @@ zim-zim-zam.com
 zinhavnpak.com
 zinrora.pw
 zioe.com.cn
-zip-zip-swan.com
 ziphentai.com
 ziphoumt.net
 zipropyl.com

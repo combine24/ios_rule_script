@@ -12,8 +12,9 @@
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| mitm | 1 |
+| mitm | 0 |
 | force_http_engine_hosts | 0 |
+| URL-REGEX | 1 |
 | http-response | 1 |
 | redirect | 1 |
 ## 配置说明

@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-13 02:06:22
+# UPDATED: 2021-06-14 02:06:21
 # DOMAIN-KEYWORD: 86
 # DOMAIN-SUFFIX: 47758
-# DOMAIN: 20742
+# DOMAIN: 20740
 # IP-CIDR: 253
 # IP-CIDR6: 1
-# TOTAL: 68840
+# TOTAL: 68838
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -3281,7 +3281,6 @@ payload:
   - 'arkmeditech.com'
   - 'arkonziv.com'
   - 'armaninofoods.com'
-  - 'armantark.com'
   - 'armenminasian.com'
   - 'armleder.com'
   - 'armoniaclinicadental.com'
@@ -5093,7 +5092,6 @@ payload:
   - 'chansteqindia.com'
   - 'chaopeng1.cn'
   - 'chaorenxin.com'
-  - 'chappel.videogamer.com'
   - 'characterfarm.com'
   - 'charbroil.inq.com'
   - 'charbroil.touchcommerce.com'
@@ -6532,6 +6530,7 @@ payload:
   - 'defygravity.com'
   - 'degree.pes.edu'
   - 'deguiste.com'
+  - 'deitydress.com'
   - 'del-marine.com'
   - 'del1.phillyburbs.com'
   - 'delb.mspaceads.com'
@@ -7756,7 +7755,6 @@ payload:
   - 'facebookgamecheat.org'
   - 'facebookid.younetmedia.com'
   - 'facebookplus.net'
-  - 'facebooksteal.com'
   - 'facebookunblocking.com'
   - 'faceboolk.totalh.net'
   - 'facebu0k.comli.com'
@@ -7929,6 +7927,7 @@ payload:
   - 'fg45fe.webcindario.com'
   - 'fgawegwr.chez.com'
   - 'fgf5.webcindario.com'
+  - 'fgoocsqg.com'
   - 'fgppdc1.fgppchg.fgpp.com'
   - 'fhgfffdsf9.appspot.com'
   - 'fhserve.com'
@@ -9982,6 +9981,7 @@ payload:
   - 'ichnaea.netflix.com'
   - 'icipourtoi.com'
   - 'icityfind.com'
+  - 'icloud-logins.com'
   - 'icloud-privacy.com'
   - 'icloud.actonsoftware.com'
   - 'icloud21.com'
@@ -10717,6 +10717,7 @@ payload:
   - 'jin.7377727.com'
   - 'jinyidianzi.com'
   - 'jioads.akamaized.net'
+  - 'jiongshiwu.com'
   - 'jishuitong.com'
   - 'jiujiuguiyi.she456.com'
   - 'jjscakery.com'
@@ -10911,6 +10912,7 @@ payload:
   - 'kajglobal.com'
   - 'kakablog.net'
   - 'kalantzis.net'
+  - 'kalinston.com'
   - 'kalitereklam.com'
   - 'kalo.onvid.xyz'
   - 'kalorsystem.com'
@@ -12830,7 +12832,6 @@ payload:
   - 'myamzgiftcards.com'
   - 'myanmardream.com'
   - 'myanmarsdn.com'
-  - 'myanyone.net'
   - 'myap.liveperson.com'
   - 'myarab-me.j8inn1zektoe.com'
   - 'myarsenalsupply.com'
@@ -13568,7 +13569,6 @@ payload:
   - 'omeda.com'
   - 'omegavite.com'
   - 'omfgskins.com'
-  - 'omgnickinews.com'
   - 'omise-go.com'
   - 'omisegotoken.com'
   - 'oml.syghide.org'
@@ -14822,7 +14822,6 @@ payload:
   - 'psychotherapiehaarlem.com'
   - 'pt5.titans-gel.net'
   - 'ptads.sv.publicus.com'
-  - 'ptllantas.com'
   - 'ptmontessori.com'
   - 'ptp123.com'
   - 'ptpscollege.org'
@@ -17347,6 +17346,7 @@ payload:
   - 'sunrisechinesefood.com'
   - 'sunsetterraceguesthouse.com'
   - 'sunshinecleaningservice.com'
+  - 'sunshinecompanybd.com'
   - 'sunshinewrites.com'
   - 'suntreebearing.com'
   - 'suocloud.com'
@@ -17632,7 +17632,6 @@ payload:
   - 'tattooha.com'
   - 'taurus.eu.com'
   - 'taurusproducciones.com'
-  - 'tavaresmovelaria.com'
   - 'tavelscape.com'
   - 'tavuks.com'
   - 'taximtravel.com'
@@ -20652,7 +20651,6 @@ payload:
   - 'zf1.quebec-bin.com'
   - 'zf1.zeroredirect11.com'
   - 'zfb2015.com'
-  - 'zfmnlr.hongquan888.cn'
   - 'zgbxxxw.com'
   - 'zgsysz.com'
   - 'zh1.zeroredirect11.com'

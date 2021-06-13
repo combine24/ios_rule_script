@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-13 02:06:22
+# UPDATED: 2021-06-14 02:06:21
 # DOMAIN-KEYWORD: 86
 # DOMAIN-SUFFIX: 47758
-# DOMAIN: 20742
+# DOMAIN: 20740
 # IP-CIDR: 253
 # IP-CIDR6: 1
-# TOTAL: 68840
+# TOTAL: 68838
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -3281,7 +3281,6 @@ payload:
   - DOMAIN,arkmeditech.com
   - DOMAIN,arkonziv.com
   - DOMAIN,armaninofoods.com
-  - DOMAIN,armantark.com
   - DOMAIN,armenminasian.com
   - DOMAIN,armleder.com
   - DOMAIN,armoniaclinicadental.com
@@ -5093,7 +5092,6 @@ payload:
   - DOMAIN,chansteqindia.com
   - DOMAIN,chaopeng1.cn
   - DOMAIN,chaorenxin.com
-  - DOMAIN,chappel.videogamer.com
   - DOMAIN,characterfarm.com
   - DOMAIN,charbroil.inq.com
   - DOMAIN,charbroil.touchcommerce.com
@@ -6532,6 +6530,7 @@ payload:
   - DOMAIN,defygravity.com
   - DOMAIN,degree.pes.edu
   - DOMAIN,deguiste.com
+  - DOMAIN,deitydress.com
   - DOMAIN,del-marine.com
   - DOMAIN,del1.phillyburbs.com
   - DOMAIN,delb.mspaceads.com
@@ -7756,7 +7755,6 @@ payload:
   - DOMAIN,facebookgamecheat.org
   - DOMAIN,facebookid.younetmedia.com
   - DOMAIN,facebookplus.net
-  - DOMAIN,facebooksteal.com
   - DOMAIN,facebookunblocking.com
   - DOMAIN,faceboolk.totalh.net
   - DOMAIN,facebu0k.comli.com
@@ -7929,6 +7927,7 @@ payload:
   - DOMAIN,fg45fe.webcindario.com
   - DOMAIN,fgawegwr.chez.com
   - DOMAIN,fgf5.webcindario.com
+  - DOMAIN,fgoocsqg.com
   - DOMAIN,fgppdc1.fgppchg.fgpp.com
   - DOMAIN,fhgfffdsf9.appspot.com
   - DOMAIN,fhserve.com
@@ -9982,6 +9981,7 @@ payload:
   - DOMAIN,ichnaea.netflix.com
   - DOMAIN,icipourtoi.com
   - DOMAIN,icityfind.com
+  - DOMAIN,icloud-logins.com
   - DOMAIN,icloud-privacy.com
   - DOMAIN,icloud.actonsoftware.com
   - DOMAIN,icloud21.com
@@ -10717,6 +10717,7 @@ payload:
   - DOMAIN,jin.7377727.com
   - DOMAIN,jinyidianzi.com
   - DOMAIN,jioads.akamaized.net
+  - DOMAIN,jiongshiwu.com
   - DOMAIN,jishuitong.com
   - DOMAIN,jiujiuguiyi.she456.com
   - DOMAIN,jjscakery.com
@@ -10911,6 +10912,7 @@ payload:
   - DOMAIN,kajglobal.com
   - DOMAIN,kakablog.net
   - DOMAIN,kalantzis.net
+  - DOMAIN,kalinston.com
   - DOMAIN,kalitereklam.com
   - DOMAIN,kalo.onvid.xyz
   - DOMAIN,kalorsystem.com
@@ -12830,7 +12832,6 @@ payload:
   - DOMAIN,myamzgiftcards.com
   - DOMAIN,myanmardream.com
   - DOMAIN,myanmarsdn.com
-  - DOMAIN,myanyone.net
   - DOMAIN,myap.liveperson.com
   - DOMAIN,myarab-me.j8inn1zektoe.com
   - DOMAIN,myarsenalsupply.com
@@ -13568,7 +13569,6 @@ payload:
   - DOMAIN,omeda.com
   - DOMAIN,omegavite.com
   - DOMAIN,omfgskins.com
-  - DOMAIN,omgnickinews.com
   - DOMAIN,omise-go.com
   - DOMAIN,omisegotoken.com
   - DOMAIN,oml.syghide.org
@@ -14822,7 +14822,6 @@ payload:
   - DOMAIN,psychotherapiehaarlem.com
   - DOMAIN,pt5.titans-gel.net
   - DOMAIN,ptads.sv.publicus.com
-  - DOMAIN,ptllantas.com
   - DOMAIN,ptmontessori.com
   - DOMAIN,ptp123.com
   - DOMAIN,ptpscollege.org
@@ -17347,6 +17346,7 @@ payload:
   - DOMAIN,sunrisechinesefood.com
   - DOMAIN,sunsetterraceguesthouse.com
   - DOMAIN,sunshinecleaningservice.com
+  - DOMAIN,sunshinecompanybd.com
   - DOMAIN,sunshinewrites.com
   - DOMAIN,suntreebearing.com
   - DOMAIN,suocloud.com
@@ -17632,7 +17632,6 @@ payload:
   - DOMAIN,tattooha.com
   - DOMAIN,taurus.eu.com
   - DOMAIN,taurusproducciones.com
-  - DOMAIN,tavaresmovelaria.com
   - DOMAIN,tavelscape.com
   - DOMAIN,tavuks.com
   - DOMAIN,taximtravel.com
@@ -20652,7 +20651,6 @@ payload:
   - DOMAIN,zf1.quebec-bin.com
   - DOMAIN,zf1.zeroredirect11.com
   - DOMAIN,zfb2015.com
-  - DOMAIN,zfmnlr.hongquan888.cn
   - DOMAIN,zgbxxxw.com
   - DOMAIN,zgsysz.com
   - DOMAIN,zh1.zeroredirect11.com

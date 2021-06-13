@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-13 02:06:22
+# UPDATED: 2021-06-14 02:06:22
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 77249
-# DOMAIN: 14339
+# DOMAIN-SUFFIX: 77258
+# DOMAIN: 14337
 # IP-CIDR: 253
 # IP-CIDR6: 1
-# TOTAL: 91928
+# TOTAL: 91935
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
@@ -1687,7 +1687,6 @@ payload:
   - DOMAIN,arkmeditech.com
   - DOMAIN,arkonziv.com
   - DOMAIN,armaninofoods.com
-  - DOMAIN,armantark.com
   - DOMAIN,armenminasian.com
   - DOMAIN,armleder.com
   - DOMAIN,armoniaclinicadental.com
@@ -2899,7 +2898,6 @@ payload:
   - DOMAIN,chansteqindia.com
   - DOMAIN,chaopeng1.cn
   - DOMAIN,chaorenxin.com
-  - DOMAIN,chappel.videogamer.com
   - DOMAIN,characterfarm.com
   - DOMAIN,charbroil.inq.com
   - DOMAIN,charbroil.touchcommerce.com
@@ -3840,6 +3838,7 @@ payload:
   - DOMAIN,defygravity.com
   - DOMAIN,degree.pes.edu
   - DOMAIN,deguiste.com
+  - DOMAIN,deitydress.com
   - DOMAIN,del-marine.com
   - DOMAIN,delb.myspace.com
   - DOMAIN,delb2.myspace.com
@@ -4801,7 +4800,6 @@ payload:
   - DOMAIN,facebookfansigned.comlu.com
   - DOMAIN,facebookgamecheat.org
   - DOMAIN,facebookplus.net
-  - DOMAIN,facebooksteal.com
   - DOMAIN,facebookunblocking.com
   - DOMAIN,faceboolk.totalh.net
   - DOMAIN,facebu0k.comli.com
@@ -6599,6 +6597,7 @@ payload:
   - DOMAIN,icehacks.com
   - DOMAIN,icipourtoi.com
   - DOMAIN,icityfind.com
+  - DOMAIN,icloud-logins.com
   - DOMAIN,icloud-privacy.com
   - DOMAIN,icloud21.com
   - DOMAIN,icloudverified.com
@@ -7156,6 +7155,7 @@ payload:
   - DOMAIN,jimmybigburgers.com
   - DOMAIN,jin.7377727.com
   - DOMAIN,jinyidianzi.com
+  - DOMAIN,jiongshiwu.com
   - DOMAIN,jishuitong.com
   - DOMAIN,jiujiuguiyi.she456.com
   - DOMAIN,jjscakery.com
@@ -7316,6 +7316,7 @@ payload:
   - DOMAIN,kajglobal.com
   - DOMAIN,kakablog.net
   - DOMAIN,kalantzis.net
+  - DOMAIN,kalinston.com
   - DOMAIN,kalo.onvid.xyz
   - DOMAIN,kalorsystem.com
   - DOMAIN,kalyanglobal.com
@@ -9269,7 +9270,6 @@ payload:
   - DOMAIN,om.webcrawler.com
   - DOMAIN,omegavite.com
   - DOMAIN,omfgskins.com
-  - DOMAIN,omgnickinews.com
   - DOMAIN,omise-go.com
   - DOMAIN,omisegotoken.com
   - DOMAIN,oml.syghide.org
@@ -10119,7 +10119,6 @@ payload:
   - DOMAIN,psvitaromsgames.com
   - DOMAIN,psychotherapiehaarlem.com
   - DOMAIN,ptads.sv.publicus.com
-  - DOMAIN,ptllantas.com
   - DOMAIN,ptmontessori.com
   - DOMAIN,ptpscollege.org
   - DOMAIN,pub.axiatraders.com
@@ -11933,6 +11932,7 @@ payload:
   - DOMAIN,sunrisechinesefood.com
   - DOMAIN,sunsetterraceguesthouse.com
   - DOMAIN,sunshinecleaningservice.com
+  - DOMAIN,sunshinecompanybd.com
   - DOMAIN,sunshinewrites.com
   - DOMAIN,suntreebearing.com
   - DOMAIN,sup-finance.com
@@ -12126,7 +12126,6 @@ payload:
   - DOMAIN,tattooha.com
   - DOMAIN,taurus.eu.com
   - DOMAIN,taurusproducciones.com
-  - DOMAIN,tavaresmovelaria.com
   - DOMAIN,tavelscape.com
   - DOMAIN,tavuks.com
   - DOMAIN,taximtravel.com
@@ -14269,7 +14268,6 @@ payload:
   - DOMAIN,zerowastecity.org
   - DOMAIN,zf1.quebec-bin.com
   - DOMAIN,zfb2015.com
-  - DOMAIN,zfmnlr.hongquan888.cn
   - DOMAIN,zgbxxxw.com
   - DOMAIN,zgsysz.com
   - DOMAIN,zhabyesrdnvn.com
@@ -14586,6 +14584,7 @@ payload:
   - DOMAIN-SUFFIX,1.21shebao.com
   - DOMAIN-SUFFIX,1.32xp.com
   - DOMAIN-SUFFIX,1.5000yan.com
+  - DOMAIN-SUFFIX,1.51dongshi.com
   - DOMAIN-SUFFIX,1.51sxue.cn
   - DOMAIN-SUFFIX,1.5646.cn
   - DOMAIN-SUFFIX,1.66law.cn
@@ -30976,6 +30975,7 @@ payload:
   - DOMAIN-SUFFIX,centrnotify.com
   - DOMAIN-SUFFIX,centrpush.com
   - DOMAIN-SUFFIX,centwrite.com
+  - DOMAIN-SUFFIX,ceo8000.net
   - DOMAIN-SUFFIX,ceoillwdcc.com
   - DOMAIN-SUFFIX,cepailru.com
   - DOMAIN-SUFFIX,ceparateauab.info
@@ -34921,6 +34921,7 @@ payload:
   - DOMAIN-SUFFIX,d2edfzx4ay42og.cloudfront.net
   - DOMAIN-SUFFIX,d2eucw4fxv7nil.cloudfront.net
   - DOMAIN-SUFFIX,d2fbkzyicji7c4.cloudfront.net
+  - DOMAIN-SUFFIX,d2fbvay81k4ji3.cloudfront.net
   - DOMAIN-SUFFIX,d2fhjyz3dwdx87.cloudfront.net
   - DOMAIN-SUFFIX,d2focgxak1cn74.cloudfront.net
   - DOMAIN-SUFFIX,d2g9nmtuil60cb.cloudfront.net
@@ -39760,6 +39761,7 @@ payload:
   - DOMAIN-SUFFIX,ertopcu.com
   - DOMAIN-SUFFIX,ertya.com
   - DOMAIN-SUFFIX,eru5tdmbuwxm.com
+  - DOMAIN-SUFFIX,erucrippled.com
   - DOMAIN-SUFFIX,erutinmo.snagajob.com
   - DOMAIN-SUFFIX,erutinmos.snagajob.com
   - DOMAIN-SUFFIX,erversarycompa.info
@@ -40850,6 +40852,7 @@ payload:
   - DOMAIN-SUFFIX,fatchilli.media
   - DOMAIN-SUFFIX,fatcoil.com
   - DOMAIN-SUFFIX,fate-xy.com
+  - DOMAIN-SUFFIX,fatebbc.pro
   - DOMAIN-SUFFIX,fatfasts-4tmz.world
   - DOMAIN-SUFFIX,fathionmall.com
   - DOMAIN-SUFFIX,fathom.app.silverbeak.com
@@ -54940,6 +54943,7 @@ payload:
   - DOMAIN-SUFFIX,maimaias.cn
   - DOMAIN-SUFFIX,maimeehu.com
   - DOMAIN-SUFFIX,main-boost.com
+  - DOMAIN-SUFFIX,main-ti-hub.com
   - DOMAIN-SUFFIX,main.jiukang.org
   - DOMAIN-SUFFIX,main.vodonet.net
   - DOMAIN-SUFFIX,mainadd.com
@@ -70456,6 +70460,7 @@ payload:
   - DOMAIN-SUFFIX,sam.spiegel.de
   - DOMAIN-SUFFIX,sam4m.com
   - DOMAIN-SUFFIX,samage-bility.icu
+  - DOMAIN-SUFFIX,samanthyean.com
   - DOMAIN-SUFFIX,sambaads.com
   - DOMAIN-SUFFIX,samboc.com
   - DOMAIN-SUFFIX,samc.frankly.ch
@@ -72440,6 +72445,7 @@ payload:
   - DOMAIN-SUFFIX,shunguts.com
   - DOMAIN-SUFFIX,shunlidl.online
   - DOMAIN-SUFFIX,shunlige.com
+  - DOMAIN-SUFFIX,shunshiwlkj.com
   - DOMAIN-SUFFIX,shunxinyuancaiwu.cn
   - DOMAIN-SUFFIX,shuqistat.com
   - DOMAIN-SUFFIX,shuqw.com
@@ -85592,6 +85598,7 @@ payload:
   - DOMAIN-SUFFIX,waitingpresen.info
   - DOMAIN-SUFFIX,waitmetrodeuce.casa
   - DOMAIN-SUFFIX,waitor.info
+  - DOMAIN-SUFFIX,waiyuyou.com
   - DOMAIN-SUFFIX,wakamoment.tk
   - DOMAIN-SUFFIX,wakapita.com
   - DOMAIN-SUFFIX,wakefulcook.com

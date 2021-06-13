@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-13 02:06:22
+# UPDATED: 2021-06-14 02:06:22
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 77249
-# DOMAIN: 14339
+# DOMAIN-SUFFIX: 77258
+# DOMAIN: 14337
 # IP-CIDR: 253
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 92230
+# TOTAL: 92237
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -1688,7 +1688,6 @@ arkinsoftware.in
 arkmeditech.com
 arkonziv.com
 armaninofoods.com
-armantark.com
 armenminasian.com
 armleder.com
 armoniaclinicadental.com
@@ -2900,7 +2899,6 @@ changekonsultan.com
 chansteqindia.com
 chaopeng1.cn
 chaorenxin.com
-chappel.videogamer.com
 characterfarm.com
 charbroil.inq.com
 charbroil.touchcommerce.com
@@ -3841,6 +3839,7 @@ defenseattorneyvamd.com
 defygravity.com
 degree.pes.edu
 deguiste.com
+deitydress.com
 del-marine.com
 delb.myspace.com
 delb2.myspace.com
@@ -4802,7 +4801,6 @@ facebookaccounthack.com
 facebookfansigned.comlu.com
 facebookgamecheat.org
 facebookplus.net
-facebooksteal.com
 facebookunblocking.com
 faceboolk.totalh.net
 facebu0k.comli.com
@@ -6600,6 +6598,7 @@ icecreamsmax.com
 icehacks.com
 icipourtoi.com
 icityfind.com
+icloud-logins.com
 icloud-privacy.com
 icloud21.com
 icloudverified.com
@@ -7157,6 +7156,7 @@ jimhartsen.com
 jimmybigburgers.com
 jin.7377727.com
 jinyidianzi.com
+jiongshiwu.com
 jishuitong.com
 jiujiuguiyi.she456.com
 jjscakery.com
@@ -7317,6 +7317,7 @@ kaideemark.com
 kajglobal.com
 kakablog.net
 kalantzis.net
+kalinston.com
 kalo.onvid.xyz
 kalorsystem.com
 kalyanglobal.com
@@ -9270,7 +9271,6 @@ om.truecar.com
 om.webcrawler.com
 omegavite.com
 omfgskins.com
-omgnickinews.com
 omise-go.com
 omisegotoken.com
 oml.syghide.org
@@ -10120,7 +10120,6 @@ psvitaapps.com
 psvitaromsgames.com
 psychotherapiehaarlem.com
 ptads.sv.publicus.com
-ptllantas.com
 ptmontessori.com
 ptpscollege.org
 pub.axiatraders.com
@@ -11934,6 +11933,7 @@ sunrise2214.weebly.com
 sunrisechinesefood.com
 sunsetterraceguesthouse.com
 sunshinecleaningservice.com
+sunshinecompanybd.com
 sunshinewrites.com
 suntreebearing.com
 sup-finance.com
@@ -12127,7 +12127,6 @@ tatango.com
 tattooha.com
 taurus.eu.com
 taurusproducciones.com
-tavaresmovelaria.com
 tavelscape.com
 tavuks.com
 taximtravel.com
@@ -14270,7 +14269,6 @@ zero-ani-mania.net
 zerowastecity.org
 zf1.quebec-bin.com
 zfb2015.com
-zfmnlr.hongquan888.cn
 zgbxxxw.com
 zgsysz.com
 zhabyesrdnvn.com
@@ -14587,6 +14585,7 @@ zzz.clickbank.net
 .1.21shebao.com
 .1.32xp.com
 .1.5000yan.com
+.1.51dongshi.com
 .1.51sxue.cn
 .1.5646.cn
 .1.66law.cn
@@ -30977,6 +30976,7 @@ zzz.clickbank.net
 .centrnotify.com
 .centrpush.com
 .centwrite.com
+.ceo8000.net
 .ceoillwdcc.com
 .cepailru.com
 .ceparateauab.info
@@ -34922,6 +34922,7 @@ zzz.clickbank.net
 .d2edfzx4ay42og.cloudfront.net
 .d2eucw4fxv7nil.cloudfront.net
 .d2fbkzyicji7c4.cloudfront.net
+.d2fbvay81k4ji3.cloudfront.net
 .d2fhjyz3dwdx87.cloudfront.net
 .d2focgxak1cn74.cloudfront.net
 .d2g9nmtuil60cb.cloudfront.net
@@ -39761,6 +39762,7 @@ zzz.clickbank.net
 .ertopcu.com
 .ertya.com
 .eru5tdmbuwxm.com
+.erucrippled.com
 .erutinmo.snagajob.com
 .erutinmos.snagajob.com
 .erversarycompa.info
@@ -40851,6 +40853,7 @@ zzz.clickbank.net
 .fatchilli.media
 .fatcoil.com
 .fate-xy.com
+.fatebbc.pro
 .fatfasts-4tmz.world
 .fathionmall.com
 .fathom.app.silverbeak.com
@@ -54941,6 +54944,7 @@ zzz.clickbank.net
 .maimaias.cn
 .maimeehu.com
 .main-boost.com
+.main-ti-hub.com
 .main.jiukang.org
 .main.vodonet.net
 .mainadd.com
@@ -70457,6 +70461,7 @@ zzz.clickbank.net
 .sam.spiegel.de
 .sam4m.com
 .samage-bility.icu
+.samanthyean.com
 .sambaads.com
 .samboc.com
 .samc.frankly.ch
@@ -72441,6 +72446,7 @@ zzz.clickbank.net
 .shunguts.com
 .shunlidl.online
 .shunlige.com
+.shunshiwlkj.com
 .shunxinyuancaiwu.cn
 .shuqistat.com
 .shuqw.com
@@ -85593,6 +85599,7 @@ zzz.clickbank.net
 .waitingpresen.info
 .waitmetrodeuce.casa
 .waitor.info
+.waiyuyou.com
 .wakamoment.tk
 .wakapita.com
 .wakefulcook.com

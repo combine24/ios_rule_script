@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-13 02:06:21
+# UPDATED: 2021-06-14 02:06:21
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12708
-# DOMAIN: 14736
+# DOMAIN: 14719
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27631
+# TOTAL: 27614
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -721,7 +721,6 @@ payload:
   - DOMAIN,abbeyblog.me
   - DOMAIN,abbp1.pw
   - DOMAIN,abc.hearst.co.uk
-  - DOMAIN,abc.pema.cl
   - DOMAIN,abcdespanol.com
   - DOMAIN,abcompteur.com
   - DOMAIN,abcstats.com
@@ -3093,7 +3092,6 @@ payload:
   - DOMAIN,c.greystripe.com
   - DOMAIN,c.hit.ua
   - DOMAIN,c.iche88.cn
-  - DOMAIN,c.j782e.cn
   - DOMAIN,c.lattebank.com
   - DOMAIN,c.lelangegg.cn
   - DOMAIN,c.mininini.cn
@@ -4009,7 +4007,6 @@ payload:
   - DOMAIN,cryptobara.com
   - DOMAIN,cryptomine.pro
   - DOMAIN,cryptonoter.com
-  - DOMAIN,crystalmart.cn
   - DOMAIN,cs-bailing.com.cn
   - DOMAIN,cs-feige.iqiyi.com
   - DOMAIN,cs-op.douyucdn.cn
@@ -4903,7 +4900,6 @@ payload:
   - DOMAIN,dyscb.cn
   - DOMAIN,dywjcc.top
   - DOMAIN,dz4ad.com
-  - DOMAIN,dzhss.cn
   - DOMAIN,dzmxze7hxwn6b.cloudfront.net
   - DOMAIN,dzsstye.com
   - DOMAIN,e-contenta.com
@@ -5494,6 +5490,7 @@ payload:
   - DOMAIN,fgawegwr.chez.com
   - DOMAIN,fgddrrr.com
   - DOMAIN,fgjasshw.com
+  - DOMAIN,fgoocsqg.com
   - DOMAIN,fhluqrhmqs.com
   - DOMAIN,fhserve.com
   - DOMAIN,ficusoid.xyz
@@ -7844,7 +7841,6 @@ payload:
   - DOMAIN,love-banner.com
   - DOMAIN,loveadverts.com
   - DOMAIN,lovecam.com.br
-  - DOMAIN,lovecar.net.cn
   - DOMAIN,loveclaw.com
   - DOMAIN,loveme.com
   - DOMAIN,lovercash.com
@@ -7944,7 +7940,6 @@ payload:
   - DOMAIN,m.5vst8h.cn
   - DOMAIN,m.61lvi.cn
   - DOMAIN,m.6z1gf.cn
-  - DOMAIN,m.74n3a.cn
   - DOMAIN,m.89kvh.cn
   - DOMAIN,m.8of9hd.cn
   - DOMAIN,m.8t5xo.cn
@@ -9173,6 +9168,7 @@ payload:
   - DOMAIN,ohmwrite.com
   - DOMAIN,ohmystats.com
   - DOMAIN,ohsatum.info
+  - DOMAIN,oicchina.com
   - DOMAIN,oicssiq.com
   - DOMAIN,oil.axelspringer.com
   - DOMAIN,ojrq.net
@@ -9322,7 +9318,6 @@ payload:
   - DOMAIN,optimierung-der-website.de
   - DOMAIN,optimization-methods.com
   - DOMAIN,optimizely.appspot.com
-  - DOMAIN,optimizelydata.com
   - DOMAIN,optimizesocial.com
   - DOMAIN,optimizesrv.com
   - DOMAIN,optimonk.com
@@ -9592,7 +9587,6 @@ payload:
   - DOMAIN,pegaumsi.com
   - DOMAIN,pegloang.com
   - DOMAIN,pejqoq4cafo3bg9yqqqtk5e6s6.com
-  - DOMAIN,pema.cl
   - DOMAIN,pennynetwork.com
   - DOMAIN,pennzxycrdmw.com
   - DOMAIN,pension-helene.cz
@@ -10376,7 +10370,6 @@ payload:
   - DOMAIN,qgwazwmlx.com
   - DOMAIN,qhupdate.com
   - DOMAIN,qianwei.wang
-  - DOMAIN,qianyilamian.cn
   - DOMAIN,qidou.com
   - DOMAIN,qienews.cn
   - DOMAIN,qiheptnm80.com
@@ -10517,8 +10510,6 @@ payload:
   - DOMAIN,rawr.at
   - DOMAIN,rayli.com.cn
   - DOMAIN,rays-counter.com
-  - DOMAIN,raz-raz-mataz.com
-  - DOMAIN,razwrite.com
   - DOMAIN,rbnt.org
   - DOMAIN,rbxtrk.com
   - DOMAIN,rcads.net
@@ -11011,6 +11002,7 @@ payload:
   - DOMAIN,salvador24.com
   - DOMAIN,sambaads.com
   - DOMAIN,samboc.com
+  - DOMAIN,samevay.com.cn
   - DOMAIN,samvaulter.com
   - DOMAIN,samvinva.info
   - DOMAIN,san-spr-01.net
@@ -12180,7 +12172,6 @@ payload:
   - DOMAIN,sunnysmedia.com
   - DOMAIN,sunrow.com
   - DOMAIN,suntcontent.se
-  - DOMAIN,suntechauto.com.cn
   - DOMAIN,suparewards.com
   - DOMAIN,super-links.net
   - DOMAIN,superadexchange.com
@@ -12544,7 +12535,6 @@ payload:
   - DOMAIN,thurnflfant.com
   - DOMAIN,ti583.com
   - DOMAIN,tianfus.com
-  - DOMAIN,tianhuicun.com.cn
   - DOMAIN,tianji520.cn
   - DOMAIN,tianjinblg.com
   - DOMAIN,tianshu-x.gtimg.cn
@@ -12633,7 +12623,6 @@ payload:
   - DOMAIN,todayjiaxiang.cn
   - DOMAIN,togenron.com
   - DOMAIN,togroltu.net
-  - DOMAIN,tok-dan-host.com
   - DOMAIN,tokenads.com
   - DOMAIN,tollfreeforwarding.com
   - DOMAIN,tomalinoalambres.com.ar
@@ -12713,7 +12702,6 @@ payload:
   - DOMAIN,totallifeguru.com
   - DOMAIN,totdorancaltert.club
   - DOMAIN,totemcash.com
-  - DOMAIN,totifiquo.com
   - DOMAIN,touchclarity.com
   - DOMAIN,touchrom.com
   - DOMAIN,touchxd.com
@@ -13617,7 +13605,6 @@ payload:
   - DOMAIN,voxfind.com
   - DOMAIN,voyeurhit.com
   - DOMAIN,vp.html5.qq.com
-  - DOMAIN,vpgf.qianyilamian.cn
   - DOMAIN,vpico.com
   - DOMAIN,vpie.net
   - DOMAIN,vpkq.cn
@@ -14004,7 +13991,6 @@ payload:
   - DOMAIN,wqzyt.net
   - DOMAIN,wrapper.ign.com
   - DOMAIN,wrapper.lemde.fr
-  - DOMAIN,wrierville.com
   - DOMAIN,writingassociates.com
   - DOMAIN,wroclawski.com.pl
   - DOMAIN,ws.browsermine.com
@@ -14305,7 +14291,6 @@ payload:
   - DOMAIN,xdwan.com
   - DOMAIN,xel-xel-fie.com
   - DOMAIN,xelllwrite.com
-  - DOMAIN,xenfrastucter.com
   - DOMAIN,xeontopa.com
   - DOMAIN,xev2o.com
   - DOMAIN,xfast.host
@@ -14348,6 +14333,7 @@ payload:
   - DOMAIN,xmas-xmas-wow.com
   - DOMAIN,xmaswrite.com
   - DOMAIN,xmaterial.tu.qq.com
+  - DOMAIN,xmglass.cn
   - DOMAIN,xmlads.bid
   - DOMAIN,xmlmonetize.com
   - DOMAIN,xmlwizard.com
@@ -14546,7 +14532,6 @@ payload:
   - DOMAIN,yrdrtzmsmt.com
   - DOMAIN,ys.da.mgtv.com
   - DOMAIN,ysm.ezprice.net
-  - DOMAIN,ysont.cn
   - DOMAIN,ystammedre.info
   - DOMAIN,yt-adv.bn.netease.com
   - DOMAIN,ytelc.com
@@ -14624,7 +14609,6 @@ payload:
   - DOMAIN,zelllwrite.com
   - DOMAIN,zelrasty.net
   - DOMAIN,zengenti.com
-  - DOMAIN,zenhppyad.com
   - DOMAIN,zenkreka.com
   - DOMAIN,zenoviaexchange.com
   - DOMAIN,zenoviagroup.com
@@ -14666,7 +14650,6 @@ payload:
   - DOMAIN,zinhavnpak.com
   - DOMAIN,zinrora.pw
   - DOMAIN,zioe.com.cn
-  - DOMAIN,zip-zip-swan.com
   - DOMAIN,ziphentai.com
   - DOMAIN,ziphoumt.net
   - DOMAIN,zipropyl.com

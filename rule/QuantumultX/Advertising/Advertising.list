@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-13 02:06:20
+# UPDATED: 2021-06-14 02:06:20
 # HOST-KEYWORD: 86
 # HOST-SUFFIX: 47758
-# HOST: 20742
+# HOST: 20740
 # IP-CIDR: 253
 # IP6-CIDR: 1
-# TOTAL: 68840
+# TOTAL: 68838
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -3280,7 +3280,6 @@ HOST,arkinsoftware.in,Advertising
 HOST,arkmeditech.com,Advertising
 HOST,arkonziv.com,Advertising
 HOST,armaninofoods.com,Advertising
-HOST,armantark.com,Advertising
 HOST,armenminasian.com,Advertising
 HOST,armleder.com,Advertising
 HOST,armoniaclinicadental.com,Advertising
@@ -5092,7 +5091,6 @@ HOST,channelintelligence.com,Advertising
 HOST,chansteqindia.com,Advertising
 HOST,chaopeng1.cn,Advertising
 HOST,chaorenxin.com,Advertising
-HOST,chappel.videogamer.com,Advertising
 HOST,characterfarm.com,Advertising
 HOST,charbroil.inq.com,Advertising
 HOST,charbroil.touchcommerce.com,Advertising
@@ -6531,6 +6529,7 @@ HOST,defenseattorneyvamd.com,Advertising
 HOST,defygravity.com,Advertising
 HOST,degree.pes.edu,Advertising
 HOST,deguiste.com,Advertising
+HOST,deitydress.com,Advertising
 HOST,del-marine.com,Advertising
 HOST,del1.phillyburbs.com,Advertising
 HOST,delb.mspaceads.com,Advertising
@@ -7755,7 +7754,6 @@ HOST,facebookfansigned.comlu.com,Advertising
 HOST,facebookgamecheat.org,Advertising
 HOST,facebookid.younetmedia.com,Advertising
 HOST,facebookplus.net,Advertising
-HOST,facebooksteal.com,Advertising
 HOST,facebookunblocking.com,Advertising
 HOST,faceboolk.totalh.net,Advertising
 HOST,facebu0k.comli.com,Advertising
@@ -7928,6 +7926,7 @@ HOST,fg09t.com,Advertising
 HOST,fg45fe.webcindario.com,Advertising
 HOST,fgawegwr.chez.com,Advertising
 HOST,fgf5.webcindario.com,Advertising
+HOST,fgoocsqg.com,Advertising
 HOST,fgppdc1.fgppchg.fgpp.com,Advertising
 HOST,fhgfffdsf9.appspot.com,Advertising
 HOST,fhserve.com,Advertising
@@ -9981,6 +9980,7 @@ HOST,icehacks.com,Advertising
 HOST,ichnaea.netflix.com,Advertising
 HOST,icipourtoi.com,Advertising
 HOST,icityfind.com,Advertising
+HOST,icloud-logins.com,Advertising
 HOST,icloud-privacy.com,Advertising
 HOST,icloud.actonsoftware.com,Advertising
 HOST,icloud21.com,Advertising
@@ -10716,6 +10716,7 @@ HOST,jimmybigburgers.com,Advertising
 HOST,jin.7377727.com,Advertising
 HOST,jinyidianzi.com,Advertising
 HOST,jioads.akamaized.net,Advertising
+HOST,jiongshiwu.com,Advertising
 HOST,jishuitong.com,Advertising
 HOST,jiujiuguiyi.she456.com,Advertising
 HOST,jjscakery.com,Advertising
@@ -10910,6 +10911,7 @@ HOST,kaizentraffic.com,Advertising
 HOST,kajglobal.com,Advertising
 HOST,kakablog.net,Advertising
 HOST,kalantzis.net,Advertising
+HOST,kalinston.com,Advertising
 HOST,kalitereklam.com,Advertising
 HOST,kalo.onvid.xyz,Advertising
 HOST,kalorsystem.com,Advertising
@@ -12829,7 +12831,6 @@ HOST,myamateurvideos.com,Advertising
 HOST,myamzgiftcards.com,Advertising
 HOST,myanmardream.com,Advertising
 HOST,myanmarsdn.com,Advertising
-HOST,myanyone.net,Advertising
 HOST,myap.liveperson.com,Advertising
 HOST,myarab-me.j8inn1zektoe.com,Advertising
 HOST,myarsenalsupply.com,Advertising
@@ -13567,7 +13568,6 @@ HOST,om.webcrawler.com,Advertising
 HOST,omeda.com,Advertising
 HOST,omegavite.com,Advertising
 HOST,omfgskins.com,Advertising
-HOST,omgnickinews.com,Advertising
 HOST,omise-go.com,Advertising
 HOST,omisegotoken.com,Advertising
 HOST,oml.syghide.org,Advertising
@@ -14821,7 +14821,6 @@ HOST,psvitaromsgames.com,Advertising
 HOST,psychotherapiehaarlem.com,Advertising
 HOST,pt5.titans-gel.net,Advertising
 HOST,ptads.sv.publicus.com,Advertising
-HOST,ptllantas.com,Advertising
 HOST,ptmontessori.com,Advertising
 HOST,ptp123.com,Advertising
 HOST,ptpscollege.org,Advertising
@@ -17346,6 +17345,7 @@ HOST,sunrise2214.weebly.com,Advertising
 HOST,sunrisechinesefood.com,Advertising
 HOST,sunsetterraceguesthouse.com,Advertising
 HOST,sunshinecleaningservice.com,Advertising
+HOST,sunshinecompanybd.com,Advertising
 HOST,sunshinewrites.com,Advertising
 HOST,suntreebearing.com,Advertising
 HOST,suocloud.com,Advertising
@@ -17631,7 +17631,6 @@ HOST,tats.cecash.com,Advertising
 HOST,tattooha.com,Advertising
 HOST,taurus.eu.com,Advertising
 HOST,taurusproducciones.com,Advertising
-HOST,tavaresmovelaria.com,Advertising
 HOST,tavelscape.com,Advertising
 HOST,tavuks.com,Advertising
 HOST,taximtravel.com,Advertising
@@ -20651,7 +20650,6 @@ HOST,zf.zeroredirect1.com,Advertising
 HOST,zf1.quebec-bin.com,Advertising
 HOST,zf1.zeroredirect11.com,Advertising
 HOST,zfb2015.com,Advertising
-HOST,zfmnlr.hongquan888.cn,Advertising
 HOST,zgbxxxw.com,Advertising
 HOST,zgsysz.com,Advertising
 HOST,zh1.zeroredirect11.com,Advertising

@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-13 02:06:21
+# UPDATED: 2021-06-14 02:06:21
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 86
 # DOMAIN-SUFFIX: 47758
-# DOMAIN: 20742
+# DOMAIN: 20740
 # IP-CIDR: 253
 # IP-CIDR6: 1
 # URL-REGEX: 302
-# TOTAL: 69142
+# TOTAL: 69140
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -3282,7 +3282,6 @@ arkinsoftware.in
 arkmeditech.com
 arkonziv.com
 armaninofoods.com
-armantark.com
 armenminasian.com
 armleder.com
 armoniaclinicadental.com
@@ -5094,7 +5093,6 @@ channelintelligence.com
 chansteqindia.com
 chaopeng1.cn
 chaorenxin.com
-chappel.videogamer.com
 characterfarm.com
 charbroil.inq.com
 charbroil.touchcommerce.com
@@ -6533,6 +6531,7 @@ defenseattorneyvamd.com
 defygravity.com
 degree.pes.edu
 deguiste.com
+deitydress.com
 del-marine.com
 del1.phillyburbs.com
 delb.mspaceads.com
@@ -7757,7 +7756,6 @@ facebookfansigned.comlu.com
 facebookgamecheat.org
 facebookid.younetmedia.com
 facebookplus.net
-facebooksteal.com
 facebookunblocking.com
 faceboolk.totalh.net
 facebu0k.comli.com
@@ -7930,6 +7928,7 @@ fg09t.com
 fg45fe.webcindario.com
 fgawegwr.chez.com
 fgf5.webcindario.com
+fgoocsqg.com
 fgppdc1.fgppchg.fgpp.com
 fhgfffdsf9.appspot.com
 fhserve.com
@@ -9983,6 +9982,7 @@ icehacks.com
 ichnaea.netflix.com
 icipourtoi.com
 icityfind.com
+icloud-logins.com
 icloud-privacy.com
 icloud.actonsoftware.com
 icloud21.com
@@ -10718,6 +10718,7 @@ jimmybigburgers.com
 jin.7377727.com
 jinyidianzi.com
 jioads.akamaized.net
+jiongshiwu.com
 jishuitong.com
 jiujiuguiyi.she456.com
 jjscakery.com
@@ -10912,6 +10913,7 @@ kaizentraffic.com
 kajglobal.com
 kakablog.net
 kalantzis.net
+kalinston.com
 kalitereklam.com
 kalo.onvid.xyz
 kalorsystem.com
@@ -12831,7 +12833,6 @@ myamateurvideos.com
 myamzgiftcards.com
 myanmardream.com
 myanmarsdn.com
-myanyone.net
 myap.liveperson.com
 myarab-me.j8inn1zektoe.com
 myarsenalsupply.com
@@ -13569,7 +13570,6 @@ om.webcrawler.com
 omeda.com
 omegavite.com
 omfgskins.com
-omgnickinews.com
 omise-go.com
 omisegotoken.com
 oml.syghide.org
@@ -14823,7 +14823,6 @@ psvitaromsgames.com
 psychotherapiehaarlem.com
 pt5.titans-gel.net
 ptads.sv.publicus.com
-ptllantas.com
 ptmontessori.com
 ptp123.com
 ptpscollege.org
@@ -17348,6 +17347,7 @@ sunrise2214.weebly.com
 sunrisechinesefood.com
 sunsetterraceguesthouse.com
 sunshinecleaningservice.com
+sunshinecompanybd.com
 sunshinewrites.com
 suntreebearing.com
 suocloud.com
@@ -17633,7 +17633,6 @@ tats.cecash.com
 tattooha.com
 taurus.eu.com
 taurusproducciones.com
-tavaresmovelaria.com
 tavelscape.com
 tavuks.com
 taximtravel.com
@@ -20653,7 +20652,6 @@ zf.zeroredirect1.com
 zf1.quebec-bin.com
 zf1.zeroredirect11.com
 zfb2015.com
-zfmnlr.hongquan888.cn
 zgbxxxw.com
 zgsysz.com
 zh1.zeroredirect11.com
