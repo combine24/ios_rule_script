@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-14 02:06:21
+# UPDATED: 2021-06-15 02:08:27
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12708
-# DOMAIN: 14719
+# DOMAIN: 14645
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27614
+# TOTAL: 27540
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -654,7 +654,6 @@ payload:
   - DOMAIN,a.ut8d8.com
   - DOMAIN,a.vserv.mobi
   - DOMAIN,a.xmdly.com
-  - DOMAIN,a.yiyuancq.com
   - DOMAIN,a013.com
   - DOMAIN,a0675c1160de6c6.com
   - DOMAIN,a06bbd98194c252.com
@@ -695,7 +694,6 @@ payload:
   - DOMAIN,a9d7c19f0282.com
   - DOMAIN,a9nf3hg5c2.com
   - DOMAIN,aa.sdo.com
-  - DOMAIN,aa.voice2page.com
   - DOMAIN,aa24h.com
   - DOMAIN,aa53df329975c325.com
   - DOMAIN,aa808.com
@@ -1503,7 +1501,6 @@ payload:
   - DOMAIN,adultaccessnow.com
   - DOMAIN,adultadvertising.net
   - DOMAIN,adultadworld.com
-  - DOMAIN,adultblogtoplist.com
   - DOMAIN,adultcamchatfree.com
   - DOMAIN,adultcamfree.com
   - DOMAIN,adultcamliveweb.com
@@ -2725,7 +2722,6 @@ payload:
   - DOMAIN,bigcattracks.com
   - DOMAIN,bigchoicegroup.com
   - DOMAIN,bigdoor.com
-  - DOMAIN,bigfineads.com
   - DOMAIN,bighot.ru
   - DOMAIN,bigmining.com
   - DOMAIN,bigmir.net
@@ -2782,13 +2778,6 @@ payload:
   - DOMAIN,bizzclick.com
   - DOMAIN,bizzibeans.net
   - DOMAIN,bj1110.online
-  - DOMAIN,bjdnserror1.wo.com.cn
-  - DOMAIN,bjdnserror2.wo.com.cn
-  - DOMAIN,bjdnserror3.wo.com.cn
-  - DOMAIN,bjdnserror4.wo.com.cn
-  - DOMAIN,bjdnserror5.wo.com.cn
-  - DOMAIN,bjdnserror6.wo.com.cn
-  - DOMAIN,bjdnserror7.wo.com.cn
   - DOMAIN,bjhjw.com.cn
   - DOMAIN,bjjingda.com
   - DOMAIN,bjmcmj.cn
@@ -3374,7 +3363,6 @@ payload:
   - DOMAIN,checkru.net
   - DOMAIN,checkstat.nl
   - DOMAIN,cheksoam.com
-  - DOMAIN,chengjie168.com.cn
   - DOMAIN,chenyayun.com.cn
   - DOMAIN,chenzx.site
   - DOMAIN,chersoat.com
@@ -3417,7 +3405,6 @@ payload:
   - DOMAIN,citysex.com
   - DOMAIN,cityua.net
   - DOMAIN,cizion.com
-  - DOMAIN,cjiv.chengjie168.com.cn
   - DOMAIN,cjt1.net
   - DOMAIN,ck-cdn.com
   - DOMAIN,ckrf1.com
@@ -3427,7 +3414,6 @@ payload:
   - DOMAIN,clarivoy.com
   - DOMAIN,clash-media.com
   - DOMAIN,class2deal.com
-  - DOMAIN,class64deal.com
   - DOMAIN,classicspeedway.com
   - DOMAIN,classionreactice.info
   - DOMAIN,claxonmedia.com
@@ -5098,7 +5084,6 @@ payload:
   - DOMAIN,elitsearch.com
   - DOMAIN,elmissouri.fr
   - DOMAIN,eloqua.com
-  - DOMAIN,elsad.tw
   - DOMAIN,elsbfby.com
   - DOMAIN,eltex.co.jp
   - DOMAIN,eluxer.net
@@ -5248,7 +5233,6 @@ payload:
   - DOMAIN,etrigue.com
   - DOMAIN,etrust.eu
   - DOMAIN,etyper.com
-  - DOMAIN,etzbnfuigipwvs.ru
   - DOMAIN,eu.vortex-win.data.microsoft.com
   - DOMAIN,eucsoft.com
   - DOMAIN,eulerian.net
@@ -6148,7 +6132,6 @@ payload:
   - DOMAIN,grosirkecantikan.com
   - DOMAIN,group-ib.ru
   - DOMAIN,growthpic.weishi.qq.com
-  - DOMAIN,grt03.com
   - DOMAIN,grtbzrsndrrtsb.com
   - DOMAIN,grtyv.com
   - DOMAIN,gruglooh.net
@@ -6274,12 +6257,6 @@ payload:
   - DOMAIN,havenwrite.com
   - DOMAIN,havetohave.com
   - DOMAIN,hb.emxdgt.com
-  - DOMAIN,hbdnserror1.wo.com.cn
-  - DOMAIN,hbdnserror2.wo.com.cn
-  - DOMAIN,hbdnserror3.wo.com.cn
-  - DOMAIN,hbdnserror4.wo.com.cn
-  - DOMAIN,hbdnserror5.wo.com.cn
-  - DOMAIN,hbdnserror6.wo.com.cn
   - DOMAIN,hbdnserror7.wo.com.cn
   - DOMAIN,hbtzzlcxfijk.com
   - DOMAIN,hcg82f2b.com
@@ -6416,11 +6393,6 @@ payload:
   - DOMAIN,hkhotpewfxr.com
   - DOMAIN,hkoxlirf.com
   - DOMAIN,hlads.com
-  - DOMAIN,hljdnserror1.wo.com.cn
-  - DOMAIN,hljdnserror2.wo.com.cn
-  - DOMAIN,hljdnserror3.wo.com.cn
-  - DOMAIN,hljdnserror4.wo.com.cn
-  - DOMAIN,hljdnserror5.wo.com.cn
   - DOMAIN,hlmiq.com
   - DOMAIN,hlpnowp-c.com
   - DOMAIN,hlserve.com
@@ -6508,7 +6480,6 @@ payload:
   - DOMAIN,hotwords.com
   - DOMAIN,hotwords.com.br
   - DOMAIN,hotwords.com.mx
-  - DOMAIN,houchosi.net
   - DOMAIN,hover.in
   - DOMAIN,hoverr.co
   - DOMAIN,hoverr.media
@@ -6527,6 +6498,7 @@ payload:
   - DOMAIN,hsadspixel.net
   - DOMAIN,hscta.net
   - DOMAIN,hsdn.org
+  - DOMAIN,hskj88.cn
   - DOMAIN,hsleadflows.net
   - DOMAIN,hsmkj.net
   - DOMAIN,hsqujerwg.com
@@ -6718,6 +6690,7 @@ payload:
   - DOMAIN,illustriousoatmeal.com
   - DOMAIN,iln.zzjpgqd.com
   - DOMAIN,ilogbox.com
+  - DOMAIN,ilovecheating.com
   - DOMAIN,im-apps.net
   - DOMAIN,im2ss2ss.top
   - DOMAIN,image.cecash.com
@@ -7090,6 +7063,7 @@ payload:
   - DOMAIN,izooto.com
   - DOMAIN,izzy-cars.nl
   - DOMAIN,j.ajaxxy.net
+  - DOMAIN,j.chuanxianwanguan.com
   - DOMAIN,j.credit.wwz114.cn
   - DOMAIN,j.microad.net
   - DOMAIN,j.taokeweizhan.com
@@ -7151,7 +7125,6 @@ payload:
   - DOMAIN,jiankongbao.com
   - DOMAIN,jianpian.vip
   - DOMAIN,jiaoben.webkaka.com
-  - DOMAIN,jiaxinkang.cn
   - DOMAIN,jiduan.cc
   - DOMAIN,jiejg.ifeng.com
   - DOMAIN,jif5o70u.pro
@@ -7172,11 +7145,6 @@ payload:
   - DOMAIN,jjk.sxklm.cn
   - DOMAIN,jjpnveujkk.com
   - DOMAIN,jl368.cn
-  - DOMAIN,jldnserror1.wo.com.cn
-  - DOMAIN,jldnserror2.wo.com.cn
-  - DOMAIN,jldnserror3.wo.com.cn
-  - DOMAIN,jldnserror4.wo.com.cn
-  - DOMAIN,jldnserror5.wo.com.cn
   - DOMAIN,jm1.xiao89.com
   - DOMAIN,jmait.cn
   - DOMAIN,jmogo.cn
@@ -7742,11 +7710,6 @@ payload:
   - DOMAIN,lmiutil.com
   - DOMAIN,lmn-pou-win.com
   - DOMAIN,lndata.com
-  - DOMAIN,lndnserror1.wo.com.cn
-  - DOMAIN,lndnserror2.wo.com.cn
-  - DOMAIN,lndnserror3.wo.com.cn
-  - DOMAIN,lndnserror4.wo.com.cn
-  - DOMAIN,lndnserror5.wo.com.cn
   - DOMAIN,lndnserror6.wo.com.cn
   - DOMAIN,lndnserror7.wo.com.cn
   - DOMAIN,lningcity.com.cn
@@ -7908,7 +7871,6 @@ payload:
   - DOMAIN,lwadm.com
   - DOMAIN,lwfw88.cn
   - DOMAIN,lwxjg.com
-  - DOMAIN,lwxlsj.wap.xsbiquge.com
   - DOMAIN,lx2rv.com
   - DOMAIN,lxbjs.baidu.com
   - DOMAIN,lxtrack.com
@@ -7938,7 +7900,6 @@ payload:
   - DOMAIN,m.2l06k.cn
   - DOMAIN,m.53trya.cn
   - DOMAIN,m.5vst8h.cn
-  - DOMAIN,m.61lvi.cn
   - DOMAIN,m.6z1gf.cn
   - DOMAIN,m.89kvh.cn
   - DOMAIN,m.8of9hd.cn
@@ -8783,7 +8744,6 @@ payload:
   - DOMAIN,ncom.dk
   - DOMAIN,nda3456.com
   - DOMAIN,ndapus.cn
-  - DOMAIN,nddmcconmqsy.ru
   - DOMAIN,ndf81.com
   - DOMAIN,ndg.io
   - DOMAIN,ndikvccwz.com
@@ -8907,7 +8867,6 @@ payload:
   - DOMAIN,nextstat.com
   - DOMAIN,nexus.officeapps.live.com
   - DOMAIN,nexusrules.officeapps.live.com
-  - DOMAIN,nfdnserror1.wo.com.cn
   - DOMAIN,nfdnserror10.wo.com.cn
   - DOMAIN,nfdnserror11.wo.com.cn
   - DOMAIN,nfdnserror12.wo.com.cn
@@ -8916,14 +8875,6 @@ payload:
   - DOMAIN,nfdnserror15.wo.com.cn
   - DOMAIN,nfdnserror16.wo.com.cn
   - DOMAIN,nfdnserror17.wo.com.cn
-  - DOMAIN,nfdnserror2.wo.com.cn
-  - DOMAIN,nfdnserror3.wo.com.cn
-  - DOMAIN,nfdnserror4.wo.com.cn
-  - DOMAIN,nfdnserror5.wo.com.cn
-  - DOMAIN,nfdnserror6.wo.com.cn
-  - DOMAIN,nfdnserror7.wo.com.cn
-  - DOMAIN,nfdnserror8.wo.com.cn
-  - DOMAIN,nfdnserror9.wo.com.cn
   - DOMAIN,nflightiesmurtone.com
   - DOMAIN,nfwebminer.com
   - DOMAIN,ng3.ads.warnerbros.com
@@ -9909,7 +9860,6 @@ payload:
   - DOMAIN,pornoow.com
   - DOMAIN,porntagged.com
   - DOMAIN,porntrack.com
-  - DOMAIN,pornworld.online
   - DOMAIN,porojo.net
   - DOMAIN,port.bg
   - DOMAIN,portablefish.com
@@ -10552,7 +10502,6 @@ payload:
   - DOMAIN,realssp.co.kr
   - DOMAIN,realtimewebstats.net
   - DOMAIN,realtracker.com
-  - DOMAIN,realtracking.ninja
   - DOMAIN,realvu.net
   - DOMAIN,realytics.io
   - DOMAIN,realzeit.io
@@ -11083,15 +11032,6 @@ payload:
   - DOMAIN,sdd.dzsc.com
   - DOMAIN,sddan.com
   - DOMAIN,sddan.mgr.consensu.org
-  - DOMAIN,sddnserror1.wo.com.cn
-  - DOMAIN,sddnserror2.wo.com.cn
-  - DOMAIN,sddnserror3.wo.com.cn
-  - DOMAIN,sddnserror4.wo.com.cn
-  - DOMAIN,sddnserror5.wo.com.cn
-  - DOMAIN,sddnserror6.wo.com.cn
-  - DOMAIN,sddnserror7.wo.com.cn
-  - DOMAIN,sddnserror8.wo.com.cn
-  - DOMAIN,sddnserror9.wo.com.cn
   - DOMAIN,sdfsdvc.com
   - DOMAIN,sdk.api.oaid.wocloud.cn
   - DOMAIN,sdk.appadhoc.com.bsclink.cn
@@ -11360,7 +11300,6 @@ payload:
   - DOMAIN,shalleda.com
   - DOMAIN,shalseey.com
   - DOMAIN,shangjiabiao.com
-  - DOMAIN,shangmiss.wap.xsbiquge.com
   - DOMAIN,share-server.com
   - DOMAIN,share.gree.jp
   - DOMAIN,share.itraffic.su
@@ -11877,7 +11816,6 @@ payload:
   - DOMAIN,spotxcdn.com
   - DOMAIN,spotxchange.com
   - DOMAIN,spoutable.com
-  - DOMAIN,spreadable.com.cn
   - DOMAIN,spring-tns.net
   - DOMAIN,spring.de
   - DOMAIN,springmetrics.com
@@ -12245,12 +12183,6 @@ payload:
   - DOMAIN,sxcdn4.now.sh
   - DOMAIN,sxcdn5.herokuapp.com
   - DOMAIN,sxcdn6.now.sh
-  - DOMAIN,sxdnserror1.wo.com.cn
-  - DOMAIN,sxdnserror2.wo.com.cn
-  - DOMAIN,sxdnserror3.wo.com.cn
-  - DOMAIN,sxdnserror4.wo.com.cn
-  - DOMAIN,sxdnserror5.wo.com.cn
-  - DOMAIN,sxdnserror6.wo.com.cn
   - DOMAIN,sxjcjdc.cn
   - DOMAIN,sxxjdz.com
   - DOMAIN,sybhpi.cn
@@ -12459,7 +12391,6 @@ payload:
   - DOMAIN,textspeier.de
   - DOMAIN,textsrv.com
   - DOMAIN,tf2www.com
-  - DOMAIN,tfa5e.top
   - DOMAIN,tfag.de
   - DOMAIN,tfqexqeldxjvet.com
   - DOMAIN,tgdaudience.com
@@ -12526,6 +12457,7 @@ payload:
   - DOMAIN,thoaltie.net
   - DOMAIN,thogethoffic.co
   - DOMAIN,thoodsoy.net
+  - DOMAIN,thoorest.com
   - DOMAIN,thoseads.com
   - DOMAIN,thoudroa.net
   - DOMAIN,threat-analytics.com
@@ -12713,7 +12645,6 @@ payload:
   - DOMAIN,touy.deryakose.com
   - DOMAIN,tovery.net
   - DOMAIN,tpdads.com
-  - DOMAIN,tpm.pw
   - DOMAIN,tpn134.com
   - DOMAIN,tpnads.com
   - DOMAIN,tqlkg.com
@@ -13051,7 +12982,6 @@ payload:
   - DOMAIN,tubereplay.com
   - DOMAIN,tubetitties.com
   - DOMAIN,tuenti.com
-  - DOMAIN,tufosex.com.br
   - DOMAIN,tuinfra.com
   - DOMAIN,tukuterus.com
   - DOMAIN,tulip18.com
@@ -13654,7 +13584,6 @@ payload:
   - DOMAIN,wafmedia6.com
   - DOMAIN,waframedia5.com
   - DOMAIN,waframedia8.com
-  - DOMAIN,waframedia9.com
   - DOMAIN,wagershare.com
   - DOMAIN,wahoha.com
   - DOMAIN,wahyufian.zoomshare.com
@@ -13949,6 +13878,7 @@ payload:
   - DOMAIN,wodemeitu.com
   - DOMAIN,wofan.net
   - DOMAIN,womanear.com
+  - DOMAIN,womenslabour.org
   - DOMAIN,womtp.com
   - DOMAIN,wonchangvacuum.com.my
   - DOMAIN,wonclick.com
@@ -14076,7 +14006,6 @@ payload:
   - DOMAIN,www.emrlogistics.com
   - DOMAIN,www.enchantier.com
   - DOMAIN,www.ere3j2e001.com
-  - DOMAIN,www.etzbnfuigipwvs.ru
   - DOMAIN,www.fabioalbini.com
   - DOMAIN,www.family-partners.fr
   - DOMAIN,www.fasadobygg.com
@@ -14150,7 +14079,6 @@ payload:
   - DOMAIN,www.nuvon.com
   - DOMAIN,www.obyz.de
   - DOMAIN,www.offerent.com
-  - DOMAIN,www.officialrdr.com
   - DOMAIN,www.ohiomm.com
   - DOMAIN,www.oiluk.net
   - DOMAIN,www.ostsee-schnack.de
@@ -14304,7 +14232,6 @@ payload:
   - DOMAIN,xhamstercams.com
   - DOMAIN,xhit.com
   - DOMAIN,xi9p.com
-  - DOMAIN,xiamiss.wap.xsbiquge.com
   - DOMAIN,xiaoyida.com
   - DOMAIN,xidx.org
   - DOMAIN,xigeweb.com
@@ -14321,7 +14248,6 @@ payload:
   - DOMAIN,xiyouence.com
   - DOMAIN,xjjkjo.pw
   - DOMAIN,xjqbftcstq.com
-  - DOMAIN,xkdi.jiaxinkang.cn
   - DOMAIN,xkzrbaexyrds.com
   - DOMAIN,xl-counti.com
   - DOMAIN,xlcun.com
